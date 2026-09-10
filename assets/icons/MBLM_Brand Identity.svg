@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 57.49 38.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #2c2929;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-3 {
+        font-family: BentonSansCond-Medium, BentonSansCond;
+        font-size: 14.68px;
+        font-weight: 500;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.01em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="1145.27" y="291.36" width="3" height="7.57"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x="1170.3" y="288.67" width="3" height="7.57"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-1" x="1167.51" y="308.05" width="3" height="7.57"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="cls-1" x="1120.24" y="288.58" width="3" height="7.57"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="cls-1" x="616.54" y="279.65" width="3" height="9.29"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="cls-1" x="579.85" y="308.97" width="3" height="5.86"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="cls-1" x="37.95" width="19.55" height="19.55"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="cls-1" x="44.26" y="4.21" width="6.95" height="10.78"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="cls-1" y="1.24" width="48.85" height="37"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="cls-1" x="780.7" y="14.05" width="2.75" height="6.56"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="cls-1" x="780.7" y="18.61" width="2.75" height="6.56"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="cls-1" x="753.36" y="18.61" width="2.75" height="6.56"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="cls-1" x="808.05" y="18.61" width="2.75" height="6.56"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="cls-1" x="1131.54" y="2.57" width="3" height="12.55"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect class="cls-1" x="1397.37" y="13.64" width="3" height="8.1"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect class="cls-1" x="1421.8" y="13.64" width="3" height="8.1"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect class="cls-1" x="1421.8" y="16.69" width="3" height="26.43"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect class="cls-1" x="58.66" y="565.97" width="3" height="7.54"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect class="cls-1" x="64.22" y="565.97" width="3" height="7.54"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <rect class="cls-1" x="69.78" y="565.97" width="3" height="7.54"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <rect class="cls-1" x="58.66" y="577.1" width="3" height="7.54"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <rect class="cls-1" x="64.22" y="577.1" width="3" height="7.54"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <rect class="cls-1" x="69.78" y="577.1" width="3" height="7.54"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <rect class="cls-1" x="58.66" y="554.85" width="3" height="7.54"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <rect class="cls-1" x="64.22" y="554.85" width="3" height="7.54"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <rect class="cls-1" x="69.78" y="554.85" width="3" height="7.54"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <rect class="cls-1" x="3.06" y="577.07" width="3" height="7.57"/>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <rect class="cls-1" x="635.51" y="558.68" width="3" height="10.83"/>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <rect class="cls-1" x="644.34" y="549.85" width="3" height="19.67"/>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <rect class="cls-1" x="653.17" y="554.27" width="3" height="15.26"/>
+    </clipPath>
+    <clipPath id="clippath-57">
+      <rect class="cls-1" x="-271.8" y="17.16" width="3" height="8.68"/>
+    </clipPath>
+    <clipPath id="clippath-59">
+      <rect class="cls-1" x="-278.48" y="10.48" width="3" height="15.36"/>
+    </clipPath>
+    <clipPath id="clippath-61">
+      <rect class="cls-1" x="-285.15" y="17.17" width="3" height="8.67"/>
+    </clipPath>
+    <clipPath id="clippath-63">
+      <rect class="cls-1" x="-291.83" y="17.17" width="3" height="8.67"/>
+    </clipPath>
+    <clipPath id="clippath-65">
+      <rect class="cls-1" x="-271.8" y="30.52" width="3" height="8.68"/>
+    </clipPath>
+    <clipPath id="clippath-67">
+      <rect class="cls-1" x="276.49" y="582.74" width="3" height="9.71"/>
+    </clipPath>
+    <clipPath id="clippath-69">
+      <rect class="cls-1" x="299.63" y="582.74" width="3" height="9.71"/>
+    </clipPath>
+    <clipPath id="clippath-71">
+      <rect class="cls-1" x="345.9" y="563.46" width="3" height="5.87"/>
+    </clipPath>
+    <clipPath id="clippath-73">
+      <rect class="cls-1" x="-276.51" y="571.11" width="3" height="9.12"/>
+    </clipPath>
+    <clipPath id="clippath-75">
+      <rect class="cls-1" x="-221.24" y="571.33" width="3" height="8.91"/>
+    </clipPath>
+    <clipPath id="clippath-77">
+      <rect class="cls-1" x="242.59" y="306.96" width="3" height="11.4"/>
+    </clipPath>
+    <clipPath id="clippath-79">
+      <rect class="cls-1" x="320.08" y="298.12" width="3" height="20.24"/>
+    </clipPath>
+    <clipPath id="clippath-81">
+      <rect class="cls-1" x="809.11" y="564" width="3" height="9.92"/>
+    </clipPath>
+    <clipPath id="clippath-83">
+      <rect class="cls-1" x="801.2" y="556.08" width="3" height="17.84"/>
+    </clipPath>
+    <clipPath id="clippath-85">
+      <rect class="cls-1" x="793.28" y="564.01" width="3" height="9.91"/>
+    </clipPath>
+    <clipPath id="clippath-87">
+      <rect class="cls-1" x="785.37" y="564.01" width="3" height="9.91"/>
+    </clipPath>
+    <clipPath id="clippath-89">
+      <rect class="cls-1" x="888.3" y="571.95" width="3" height="17.82"/>
+    </clipPath>
+  </defs>
+  <g class="cls-6">
+    <path class="cls-2" d="M47.72,17.85c-4.45,0-8.07-3.62-8.07-8.07s3.62-8.07,8.07-8.07,8.07,3.62,8.07,8.07-3.62,8.07-8.07,8.07ZM47.72,1c-4.84,0-8.77,3.94-8.77,8.77s3.94,8.78,8.77,8.78,8.77-3.94,8.77-8.78S52.56,1,47.72,1Z"/>
+  </g>
+  <g class="cls-4">
+    <path class="cls-2" d="M47.72,9.43h-1.75v-3.51h1.75c.97,0,1.75.79,1.75,1.76,0,.9-.68,1.64-1.55,1.74-.07,0-.14.01-.21.01ZM50.18,7.67c0-1.36-1.1-2.46-2.46-2.46h-2.46v8.78h.7v-3.86h1.53l1.93,3.86h.78l-1.96-3.92c1.1-.25,1.92-1.23,1.92-2.4Z"/>
+  </g>
+  <g class="cls-5">
+    <text class="cls-3" transform="translate(4.4 17.38)"><tspan class="cls-7" x="0" y="0">L</tspan><tspan x="7" y="0">o</tspan><tspan class="cls-8" x="14.46" y="0">g</tspan><tspan x="21.71" y="0">o</tspan></text>
+  </g>
+</svg>
