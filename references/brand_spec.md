@@ -7,7 +7,7 @@ primary_color: "#000000"
 
 # MBLM Brand Specification
 
-> Identity preset for this skill. Page composition follows `LAYOUTS.md` + `visual-references/LAYOUT_PATTERNS.md` + `CATALOG_R2.md` + ppt-master authoring; this file locks identity only. Decisions locked through **v4.1.0** (2026-09-10) — see `RESOLVED_DECISIONS.md` + `LAYOUT_METRICS.md`.
+> Identity preset for this skill. Page composition follows `LAYOUTS.md` + `visual-references/LAYOUT_PATTERNS.md` + `CATALOG_R2.md` + mblm-ppt authoring; this file locks identity only. Decisions locked through **v4.1.0** (2026-09-10) — see `RESOLVED_DECISIONS.md` + `LAYOUT_METRICS.md`.
 
 ## I. Brand Overview
 

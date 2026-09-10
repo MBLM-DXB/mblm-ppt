@@ -44,9 +44,9 @@ Self-contained skill for **MBLM-branded** decks. Visual identity is driven by **
 7. Consult [`references/ICONS.md`](references/ICONS.md) and [`references/IMAGERY.md`](references/IMAGERY.md) when relevant. Locked decisions: [`references/RESOLVED_DECISIONS.md`](references/RESOLVED_DECISIONS.md).
 8. Optional identity brief: [`references/brand_spec.md`](references/brand_spec.md).
 
-**Hard rule — paths**: expand absolute paths every tool call; quote spaces (`mblm master`). Never `cd` into ppt-master as a substitute for absolute paths.
+**Hard rule — paths**: expand absolute paths every tool call; quote spaces (`mblm master`). Never `cd` into the ppt-master engine as a substitute for absolute paths.
 
-**Hard rule — brand lock**: do not substitute McKinsey/BCG/other ppt-master brand presets. Do not invent colors outside `COLORS.md`.
+**Hard rule — brand lock**: do not substitute McKinsey/BCG/other engine brand presets. Do not invent colors outside `COLORS.md`.
 
 **Hard rule — engine**: call scripts under `PPT_MASTER_SKILL/scripts/`. Do not modify `ppt-master-main` for ordinary generation.
 
@@ -188,7 +188,7 @@ ${MBLM_MASTER_ROOT}/more examples r2/
 
 ---
 
-## Global discipline (adapted from ppt-master)
+## Global discipline (adapted from the ppt-master engine)
 
 1. Serial execution of the selected path.  
 2. Blocking gates only where ppt-master marks `⛔ BLOCKING` (Quick has none for strategy).  

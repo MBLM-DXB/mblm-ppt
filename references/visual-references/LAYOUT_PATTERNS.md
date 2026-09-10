@@ -8,7 +8,7 @@ Canonical catalogs: [`CATALOG.md`](CATALOG.md) (specs) · [`CATALOG_R2.md`](CATA
 - R2 ASCII: `${MBLM_MASTER_ROOT}/skill/_examples_r2_ascii/`
 - R2 original: `${MBLM_MASTER_ROOT}/more examples r2/`
 
-Canvas for ppt-master authoring remains **1280×720** (16:9). Spec "2:1 Frame" refers to **logo-proportioned content windows / panel ratios**, not a change of slide aspect.
+Canvas for mblm-ppt authoring remains **1280×720** (16:9). Spec "2:1 Frame" refers to **logo-proportioned content windows / panel ratios**, not a change of slide aspect.
 
 ---
 

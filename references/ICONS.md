@@ -45,8 +45,8 @@ Brand-kit screenshot: thin-line, geometric, consistent stroke — prefer **linea
 
 ## Usage rules
 
-- Prefer these kit icons over generic ppt-master icon libraries when illustrating MBLM services or intimacy concepts.
-- Copy needed icons into the ppt-master project `icons/` directory (or reference absolute paths under `${SKILL_DIR}/assets/icons/`) before SVG authoring.
+- Prefer these kit icons over generic icon libraries when illustrating MBLM services or intimacy concepts.
+- Copy needed icons into the mblm-ppt project `icons/` directory (or reference absolute paths under `${SKILL_DIR}/assets/icons/`) before SVG authoring.
 - Filenames with spaces & ampersands must be quoted in shell commands.
 - Closed rule: always quote `"MBLM_ UI-UX Design.svg"` (leading space in the kit filename).
 - Do not mix heavy filled third-party icon sets with these stroke icons on the same page.

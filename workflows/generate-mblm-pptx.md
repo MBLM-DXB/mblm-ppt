@@ -61,7 +61,7 @@ Lock these without asking (unless User overrides):
 | Tables | Header **only** `#002A60` / `#000000` / `#808080`; white/contrast text; normal kerning. Chrome/bars/accents: primary `#000000` `#FFFFFF` `#FFF200` only |
 | UI construction | Solid fills + paragraph blocks — **no line-box stacks** |
 
-Do **not** load competing ppt-master brand presets (McKinsey, BCG, etc.) for an MBLM deck.
+Do **not** load competing engine brand presets (McKinsey, BCG, etc.) for an MBLM deck.
 
 ### A1. Sources
 

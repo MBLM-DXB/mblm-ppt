@@ -2,7 +2,7 @@
 
 Canvas for all kit layouts: **1280 × 720** (`viewBox="0 0 1280.16 720"` or `1280.2 720`) — 16:9 widescreen.
 
-Reference SVGs: `assets/layouts/`. Use these as **composition references** when authoring ppt-master page SVGs (do not paste placeholder “Title goes here” copy into final decks).
+Reference SVGs: `assets/layouts/`. Use these as **composition references** when authoring mblm-ppt page SVGs (do not paste placeholder “Title goes here” copy into final decks).
 
 **Specs + R2 patterns** (mandatory adaptation source): [`visual-references/LAYOUT_PATTERNS.md`](visual-references/LAYOUT_PATTERNS.md), [`visual-references/CATALOG.md`](visual-references/CATALOG.md), and [`visual-references/CATALOG_R2.md`](visual-references/CATALOG_R2.md). Prefer those patterns over inventing consulting-deck chrome. **Agenda gold standard**: r2_12 (Content TOC) + r2_40 (section agenda).
 
@@ -66,8 +66,8 @@ Keep geometry signatures consistent within a section (same card treatment, same 
 
 ## Official PPTX template
 
-For native PowerPoint editing outside ppt-master, start from:
+For native PowerPoint editing outside mblm-ppt, start from:
 
 `${MBLM_MASTER_ROOT}/source/mblm assets/template/MBLM_Power point _v1.pptx`
 
-For ppt-master Generate, prefer authoring SVG pages that **match** these layouts + specs patterns rather than round-tripping the 70MB PPTX unless the user asks for Edit Native PPTX.
+For mblm-ppt Generate, prefer authoring SVG pages that **match** these layouts + specs patterns rather than round-tripping the 70MB PPTX unless the user asks for Edit Native PPTX.

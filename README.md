@@ -11,7 +11,7 @@ Cursor/agent skill: generate **MBLM-branded** PowerPoint decks via the local **p
 
 **Provenance:** There is no Markdown brand manual inside the source `mblm assets` kit. Rules here were derived from SVGs, the brand-kit screenshot, layout compositions, official specs screenshots, R2 consulting examples, and user hard feedback (closed fact, 2026-09-10).
 
-Engine path (do not move this skill into ppt-master):
+Engine path (do not move this skill into the ppt-master engine):
 
 `${MBLM_MASTER_ROOT}/source/ppt-master-main/skills/ppt-master`
 
