@@ -2,22 +2,22 @@
 name: mblm-ppt
 description: >
   Generate MBLM-branded PowerPoint decks (The Brand Intimacy Agency) using the
-  local ppt-master engine with MBLM palette, BentonSansCond typography, logo
+  local mblm-ppt engine with MBLM palette, BentonSansCond typography, logo
   lockups, layout patterns, and kit icons — driven by visual analysis of official
   specs + R2 consulting examples plus user hard rules (v4.1 persistent layout lock). Use when the user asks
   for an MBLM PPT, PPTX, slide deck, presenter deck, pitch, case study, or agency
   presentation; when branding must match the MBLM brand kit; or when the user
-  mentions mblm-ppt / MBLM slides. Prefer this over generic ppt-master branding
+  mentions mblm-ppt / MBLM slides. Prefer this over generic mblm-ppt branding
   for any MBLM work.
 metadata:
   version: "4.1.1"
   brand: "MBLM — The Brand Intimacy Agency"
-  engine: "ppt-master (local install)"
+  engine: "mblm-ppt (local install)"
 ---
 
 # MBLM PPT Skill (v4.1.1)
 
-Self-contained skill for **MBLM-branded** decks. Visual identity is driven by **analysis of official specs + R2 consulting examples** (plus user hard feedback), then applied via this folder’s `assets/` + `references/`. Slide generation uses the existing **ppt-master** install — do not reimplement the SVG→PPTX pipeline here. Do **not** invent McKinsey-style decks.
+Self-contained skill for **MBLM-branded** decks. Visual identity is driven by **analysis of official specs + R2 consulting examples** (plus user hard feedback), then applied via this folder’s `assets/` + `references/`. Slide generation uses the existing **mblm-ppt** install — do not reimplement the SVG→PPTX pipeline here. Do **not** invent McKinsey-style decks.
 
 ## Mandatory load order
 
@@ -40,15 +40,15 @@ Self-contained skill for **MBLM-branded** decks. Visual identity is driven by **
    - [`references/LOGOS.md`](references/LOGOS.md) ← content logo **88.4×44.2 @ 1148.2,39.7**; cover/divider/thanks **138×69 @ 40,40**; **no tagline / no bottom wordmark** when logo present
    - [`references/LAYOUTS.md`](references/LAYOUTS.md)
 5. Read [`workflows/generate-mblm-pptx.md`](workflows/generate-mblm-pptx.md) and execute **Path A** (Quick) unless the user asks for Strategist UI (Path B) or native template edit (Path C).
-6. Load ppt-master runtime docs only as that workflow requires (`quick-generate.md` or `generate-pptx.md`, plus executor/shared-standards).
+6. Load mblm-ppt runtime docs only as that workflow requires (`quick-generate.md` or `generate-pptx.md`, plus executor/shared-standards).
 7. Consult [`references/ICONS.md`](references/ICONS.md) and [`references/IMAGERY.md`](references/IMAGERY.md) when relevant. Locked decisions: [`references/RESOLVED_DECISIONS.md`](references/RESOLVED_DECISIONS.md).
 8. Optional identity brief: [`references/brand_spec.md`](references/brand_spec.md).
 
-**Hard rule — paths**: expand absolute paths every tool call; quote spaces (`mblm master`). Never `cd` into the ppt-master engine as a substitute for absolute paths.
+**Hard rule — paths**: expand absolute paths every tool call; quote spaces (`mblm master`). Never `cd` into the mblm-ppt engine as a substitute for absolute paths.
 
 **Hard rule — brand lock**: do not substitute McKinsey/BCG/other engine brand presets. Do not invent colors outside `COLORS.md`.
 
-**Hard rule — engine**: call scripts under `PPT_MASTER_SKILL/scripts/`. Do not modify `ppt-master-main` for ordinary generation.
+**Hard rule — engine**: call scripts under `PPT_MASTER_SKILL/scripts/`. Do not modify `mblm-ppt-main` for ordinary generation.
 
 ---
 
@@ -113,7 +113,7 @@ Every Path A/B run starts with the visual reference pass (specs **+ R2**). Desig
 |---|---|
 | “Make an MBLM deck / brand intimacy pitch / agency PPT” | Yes |
 | “MBLM colors / Benton / our icons” | Yes |
-| Generic ppt-master deck with no MBLM requirement | No — use ppt-master skill directly |
+| Generic mblm-ppt deck with no MBLM requirement | No — use mblm-ppt skill directly |
 | Edit the official `MBLM_Power point _v1.pptx` | Yes — Path C |
 
 ---
@@ -188,10 +188,10 @@ ${MBLM_MASTER_ROOT}/more examples r2/
 
 ---
 
-## Global discipline (adapted from the ppt-master engine)
+## Global discipline (adapted from the mblm-ppt engine)
 
 1. Serial execution of the selected path.  
-2. Blocking gates only where ppt-master marks `⛔ BLOCKING` (Quick has none for strategy).  
+2. Blocking gates only where mblm-ppt marks `⛔ BLOCKING` (Quick has none for strategy).  
 3. Act at the owning layer on failure (page SVG vs source vs tool).  
 4. Match the user’s language.  
 5. Keep MBLM identity consistent across every page (geometry signature + palette + line/type/margin/bullet/text-box rules).
@@ -200,7 +200,7 @@ ${MBLM_MASTER_ROOT}/more examples r2/
 
 ## Out of scope
 
-- Replacing or modifying ppt-master scripts / `ppt-master-main`  
+- Replacing or modifying mblm-ppt scripts / `mblm-ppt-main`  
 - Auto-running Create Template on the ~70MB official PPTX (closed policy — Paths A/B use skill assets; Path C = Edit Native via `assets/template/` symlink)  
 - Inventing gradient ASE files or installing fonts on remote machines  
 

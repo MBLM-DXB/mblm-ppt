@@ -6,7 +6,7 @@ Resolve paths from this skill's directory (`SKILL_DIR`) and the master root. Nev
 
 | Token | Meaning |
 |---|---|
-| `MBLM_MASTER_ROOT` | Parent folder containing `skill/` and `source/` — resolved at runtime by the agent from context (e.g. the folder that holds `skill/mblm-ppt` and `source/ppt-master-main`) |
+| `MBLM_MASTER_ROOT` | Parent folder containing `skill/` and `source/` — resolved at runtime by the agent from context (e.g. the folder that holds `skill/mblm-ppt` and `source/mblm-ppt-main`) |
 
 Relative tokens below are from `MBLM_MASTER_ROOT` unless noted.
 
@@ -17,18 +17,18 @@ Relative tokens below are from `MBLM_MASTER_ROOT` unless noted.
 | `SKILL_DIR` | `skill/mblm-ppt` | This skill folder |
 | Brand assets | `skill/mblm-ppt/assets/` | Logos, icons, palette, layouts |
 
-## ppt-master engine (do not modify)
+## mblm-ppt engine (do not modify)
 
 | Token | Relative from `MBLM_MASTER_ROOT` |
 |---|---|
-| `PPT_MASTER_ROOT` | `source/ppt-master-main` |
-| `PPT_MASTER_SKILL` | `source/ppt-master-main/skills/ppt-master` |
-| Projects workspace | `source/ppt-master-main/projects` (created by `project_manager.py init`) |
+| `PPT_MASTER_ROOT` | `source/mblm-ppt-main` |
+| `PPT_MASTER_SKILL` | `source/mblm-ppt-main/skills/mblm-ppt` |
+| Projects workspace | `source/mblm-ppt-main/projects` (created by `project_manager.py init`) |
 
 Relative from this skill folder (`skill/mblm-ppt/`):
 
 ```text
-../../source/ppt-master-main/skills/ppt-master
+../../source/mblm-ppt-main/skills/mblm-ppt
 ```
 
 ## Official MBLM PPTX template (large; not copied)
@@ -42,7 +42,7 @@ Symlink (Path C): `${SKILL_DIR}/assets/template/MBLM_PowerPoint_v1.pptx`
 ### Closed policy (2026-09-10)
 
 - Do **not** auto-run Create Template on this ~70MB PPTX.
-- **Paths A/B**: generate from skill brand assets + ppt-master engine.
+- **Paths A/B**: generate from skill brand assets + mblm-ppt engine.
 - **Path C**: Edit Native on this PPTX (via the path or symlink above).
 
 ## Invocation pattern
@@ -50,7 +50,7 @@ Symlink (Path C): `${SKILL_DIR}/assets/template/MBLM_PowerPoint_v1.pptx`
 Expand absolute paths in each tool call by resolving `MBLM_MASTER_ROOT` first. Prefer:
 
 ```bash
-PPT_MASTER_SKILL="${MBLM_MASTER_ROOT}/source/ppt-master-main/skills/ppt-master"
+PPT_MASTER_SKILL="${MBLM_MASTER_ROOT}/source/mblm-ppt-main/skills/mblm-ppt"
 python3 "${PPT_MASTER_SKILL}/scripts/project_manager.py" init <project_name> --quick-generate
 ```
 

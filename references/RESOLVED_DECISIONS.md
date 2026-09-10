@@ -33,7 +33,7 @@ All former open items are closed. Do not re-open or invent interim alternatives.
 ## 5. Official PPTX
 
 - Do **not** auto-run Create Template on the ~70MB `MBLM_Power point _v1.pptx`.
-- Paths A/B: skill brand assets + ppt-master engine.
+- Paths A/B: skill brand assets + mblm-ppt engine.
 - Path C: Edit Native on that PPTX via symlink at `assets/template/`.
 - Policy also documented in `workflows/generate-mblm-pptx.md` and `PATHS.md`.
 

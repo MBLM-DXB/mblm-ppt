@@ -1,6 +1,6 @@
 # mblm-ppt
 
-Cursor/agent skill: generate **MBLM-branded** PowerPoint decks via the local **ppt-master** engine.
+Cursor/agent skill: generate **MBLM-branded** PowerPoint decks via the local **mblm-ppt** engine.
 
 - Entry: [`SKILL.md`](SKILL.md) (**v4.1.1**)
 - Workflow: [`workflows/generate-mblm-pptx.md`](workflows/generate-mblm-pptx.md)
@@ -11,9 +11,9 @@ Cursor/agent skill: generate **MBLM-branded** PowerPoint decks via the local **p
 
 **Provenance:** There is no Markdown brand manual inside the source `mblm assets` kit. Rules here were derived from SVGs, the brand-kit screenshot, layout compositions, official specs screenshots, R2 consulting examples, and user hard feedback (closed fact, 2026-09-10).
 
-Engine path (do not move this skill into the ppt-master engine):
+Engine path (do not move this skill into the mblm-ppt engine):
 
-`${MBLM_MASTER_ROOT}/source/ppt-master-main/skills/ppt-master`
+`${MBLM_MASTER_ROOT}/source/mblm-ppt-main/skills/mblm-ppt`
 
 ## v4.1.1 (2026-09-10 evening Asia/Dubai) — title/subtitle + chrome polish
 

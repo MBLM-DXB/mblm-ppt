@@ -1,6 +1,6 @@
 # Generate MBLM-Branded PPTX
 
-MBLM-locked recipe on top of ppt-master's Generate engine. Default path is **Quick Generate** with MBLM brand constraints pre-applied (no free-design color exploration). Use **Default Generate** only when the user explicitly wants Strategist confirmation UI.
+MBLM-locked recipe on top of mblm-ppt's Generate engine. Default path is **Quick Generate** with MBLM brand constraints pre-applied (no free-design color exploration). Use **Default Generate** only when the user explicitly wants Strategist confirmation UI.
 
 Locked brand decisions: `${SKILL_DIR}/references/RESOLVED_DECISIONS.md` (includes **v4.1.1** persistent layout lock + R2 catalog). See also `LAYOUT_METRICS.md`.
 
@@ -10,8 +10,8 @@ Locked brand decisions: `${SKILL_DIR}/references/RESOLVED_DECISIONS.md` (include
 2. Set:
    - `SKILL_DIR` = this skill's absolute path
    - `MBLM_MASTER_ROOT` = parent of `skill/` + `source/` (resolve at runtime)
-   - `PPT_MASTER_SKILL` = `${MBLM_MASTER_ROOT}/source/ppt-master-main/skills/ppt-master`
-3. Run ppt-master integrity gate once per session:
+   - `PPT_MASTER_SKILL` = `${MBLM_MASTER_ROOT}/source/mblm-ppt-main/skills/mblm-ppt`
+3. Run mblm-ppt integrity gate once per session:
    ```bash
    python3 "${PPT_MASTER_SKILL}/scripts/attribution_guard.py"
    ```
@@ -21,10 +21,10 @@ Locked brand decisions: `${SKILL_DIR}/references/RESOLVED_DECISIONS.md` (include
 
 ## Path A — Quick Generate (default)
 
-Uses **skill brand assets** + ppt-master engine (not the official ~70MB PPTX).
+Uses **skill brand assets** + mblm-ppt engine (not the official ~70MB PPTX).
 
-Follow ppt-master Quick profile at
-`${MBLM_MASTER_ROOT}/source/ppt-master-main/skills/ppt-master/workflows/profiles/quick-generate.md`
+Follow mblm-ppt Quick profile at
+`${MBLM_MASTER_ROOT}/source/mblm-ppt-main/skills/mblm-ppt/workflows/profiles/quick-generate.md`
 with these MBLM bindings:
 
 ### A0. Visual reference pass (MANDATORY — before brand freeze / project init / SVG authoring)
@@ -44,7 +44,7 @@ Lock these without asking (unless User overrides):
 
 | Decision | MBLM default |
 |---|---|
-| Canvas | 1280×720 (`--format` only if ppt-master registers an exact match; else author viewBox `0 0 1280 720`); scale **37.795 px/cm** vs 33.867×19.05 cm |
+| Canvas | 1280×720 (`--format` only if mblm-ppt registers an exact match; else author viewBox `0 0 1280 720`); scale **37.795 px/cm** vs 33.867×19.05 cm |
 | **Layout metrics** | `references/LAYOUT_METRICS.md` — cm + px locks for margins / logos / titles |
 | **Margins** | **1.05 cm ≈ 39.7 px** all sides (practical **40**) — `references/MARGINS.md` |
 | Primary colors | `#000000`, `#FFFFFF`, `#FFF200`, gray `#BFBFBF` |
@@ -69,7 +69,7 @@ Do **not** load competing engine brand presets (McKinsey, BCG, etc.) for an MBLM
 |---|---|
 | Files / URLs | `python3 "${PPT_MASTER_SKILL}/scripts/source_to_md.py" <inputs...>` |
 | Markdown / chat brief | Read directly |
-| Topic only | Run ppt-master topic-research stage, then import the research pair |
+| Topic only | Run mblm-ppt topic-research stage, then import the research pair |
 
 ### A2. Init project
 
@@ -103,7 +103,7 @@ Decide page list using MBLM layouts + visual patterns, e.g.:
 
 ### A5. Author SVGs
 
-Hand-author `<project_path>/svg_output/P01.svg` … following ppt-master executor / shared-standards **and** MBLM brand references. For each page:
+Hand-author `<project_path>/svg_output/P01.svg` … following mblm-ppt executor / shared-standards **and** MBLM brand references. For each page:
 
 - Adapt a pattern from `LAYOUT_PATTERNS.md` / CATALOG / CATALOG_R2 (composition, not placeholder copy).
 - Apply logo rule from `LOGOS.md` / `LAYOUT_METRICS.md` (content 88.4×44.2 @ 1148.2,39.7; cover/divider/thanks 138×69 @ 40,40; no tagline / no bottom wordmark with logo).
@@ -126,7 +126,7 @@ python3 "${PPT_MASTER_SKILL}/scripts/svg_to_pptx.py" "<project_path>" --quick-ge
 
 Do **not** pass `--no-merge` (that splits every visual line into its own text frame — violates `TEXT_BOXES.md`).
 
-(Use exact flags from the installed ppt-master Quick profile if they differ slightly — the profile file wins for exporter flags, except never add `--no-merge` for MBLM.)
+(Use exact flags from the installed mblm-ppt Quick profile if they differ slightly — the profile file wins for exporter flags, except never add `--no-merge` for MBLM.)
 
 Deliver the PPTX path from the exporter output.
 
@@ -134,7 +134,7 @@ Deliver the PPTX path from the exporter output.
 
 ## Path B — Default Generate (confirmation UI)
 
-Only when the user asks for full Strategist / Confirm UI. Same brand-asset policy as Path A (skill assets + ppt-master; **not** Create Template on the official PPTX).
+Only when the user asks for full Strategist / Confirm UI. Same brand-asset policy as Path A (skill assets + mblm-ppt; **not** Create Template on the official PPTX).
 
 1. Run **A0 + A0b** (visual reference pass + brand freeze) first.
 2. Follow `${PPT_MASTER_SKILL}/workflows/generate-pptx.md` Steps 1–7.
@@ -157,7 +157,7 @@ python3 "${PPT_MASTER_SKILL}/scripts/pptx_to_svg.py" \
   --inheritance-mode both --roundtrip
 ```
 
-Then follow ppt-master `edit-native-pptx.md`: change only planned pages; export via roundtrip. Warn that the source PPTX is very large (~70MB). Still apply v4.1 LAYOUT_METRICS + LINE + TYPE + TEXT_BOX + MARGIN + BULLET hard rules on authored content.
+Then follow mblm-ppt `edit-native-pptx.md`: change only planned pages; export via roundtrip. Warn that the source PPTX is very large (~70MB). Still apply v4.1 LAYOUT_METRICS + LINE + TYPE + TEXT_BOX + MARGIN + BULLET hard rules on authored content.
 
 ---
 
@@ -176,7 +176,7 @@ Then follow ppt-master `edit-native-pptx.md`: change only planned pages; export 
 - Logo lockup matches background (`Brand color` SVG for yellow fields)
 - Spot-check **every** SVG for locked logo coords + content title 47pt before export
 - Layout rhythm recognizable from specs + R2 catalogs (not consulting presets)
-- PPTX exported via ppt-master scripts
+- PPTX exported via mblm-ppt scripts
 - No competing brand system mixed in
 - Official PPTX untouched except intentional Path C Edit Native
-- ppt-master-main unmodified
+- mblm-ppt-main unmodified
