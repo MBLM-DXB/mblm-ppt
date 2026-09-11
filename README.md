@@ -62,3 +62,11 @@ only.
 - MBLM brand assets and brand reference docs: MBLM identity materials bundled for
   authorized MBLM deck generation; do not treat as a grant to rebrand as other
   firms.
+
+## Install checklist (Alumni / local)
+
+1. This package is **flat** (`scripts/` at the skill root). `scripts/project_management/paths.py` must resolve `REPO_ROOT` to the skill folder (not `/`). If `project_manager.py init` errors with `Permission denied: '/projects'`, you have an unpatched nested-layout path — use this package’s patched `paths.py`.
+2. Install Python deps: `pip install -r requirements.txt` (needs **PyYAML** for brand `design_spec.md` frontmatter). Without PyYAML, `apply_template.py` fails with a SpecParseError that agents may misread as a “broken template.”
+3. Then: `python3 scripts/attribution_guard.py` → init project → `apply_template.py … --root templates/brands/mblm`.
+
+Do **not** skip brand apply for MBLM-only generation — fix deps/paths and retry.

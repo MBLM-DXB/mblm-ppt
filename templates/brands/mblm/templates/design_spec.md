@@ -7,88 +7,66 @@ primary_color: "#000000"
 
 # MBLM Brand Specification
 
-> Identity-only preset for MBLM PPT Master. Page composition follows
-> `${SKILL_DIR}/references/mblm/LAYOUTS.md` +
-> `references/mblm/visual-references/LAYOUT_PATTERNS.md` +
-> `CATALOG_R2.md` and the MBLM brand freeze in `SKILL.md` / `MBLM_OVERLAY.md`.
-> Decisions locked through **v4.1.1 / v4.2.0**. Full token tables live under
-> `${SKILL_DIR}/references/mblm/` (COLORS, TYPOGRAPHY, LOGOS, LAYOUT_METRICS, …).
+> Identity-only preset for MBLM PPT Master. No SVG page roster — pages are composed under the MBLM brand freeze in `SKILL.md` / `MBLM_OVERLAY.md` and `references/mblm/`.
 
 ## I. Brand Overview
 
 | Property | Value |
 |---|---|
 | Brand Name | MBLM |
-| Tagline | The Brand Intimacy Agency (**omit on slides when logo is present**) |
+| Tagline | The Brand Intimacy Agency (omit on slides when logo is present) |
 | Use Cases | Agency pitches, brand strategy readouts, capability decks, workshops, case studies, consulting proposals |
 | Tone | Confident, intimate, modern, human |
-| Sources | Official specs + R2 consulting examples + brand kit assets in `${SKILL_DIR}/assets/mblm/` |
-
-### Provenance note
-
-Brand rules were derived from official slides/specs screenshots, R2 consulting
-examples, SVGs, the brand-kit screenshot, layout compositions, and locked user
-geometry (v4.1.1). Agents must **analyze** visual references under
-`references/mblm/visual-references/` before authoring.
+| Sources | Official brand specs, R2 consulting examples, and brand-kit assets shipped under `assets/mblm/` |
 
 ## II. Color Scheme
 
 | Role | HEX | Provenance | Notes |
 |---|---|---|---|
-| primary | `#000000` | official | Black — primary brand, section/title backgrounds |
-| primary-inverse | `#FFFFFF` | official | White — light backgrounds, reverse text |
-| brand-accent | `#FFF200` | official | Yellow — fills/floods **not lines**; **not text on black** |
-| main-gray | `#BFBFBF` | official | Borders, muted UI, table lines |
-| bg-warm | `#F3EEE5` | kit | Warm surface (cream `#FCF5EB*` for gradients) |
-| cyan | `#00AEFF` | official | Line OK |
-| mid-blue | `#006AF1` / `#0068EB` | official | Mid blue family; line OK |
-| dark-navy | `#002A60` | official | Preferred card-header line |
-| secondary greens / magentas / purples | see `references/mblm/COLORS.md` | official | Asterisk = gradients only |
+| primary | `#000000` | fact | Black — primary brand, section/title backgrounds |
+| primary-inverse | `#FFFFFF` | fact | White — light backgrounds, reverse text |
+| brand-accent | `#FFF200` | fact | Yellow — fills/floods only, never divider lines, never text on black |
+| main-gray | `#BFBFBF` | fact | Borders, muted UI, table lines |
+| bg-warm | `#F3EEE5` | fact | Warm surface |
+| cream | `#FCF5EB` | fact | Gradient construction |
+| cyan | `#00AEFF` | fact | Accent / line OK |
+| mid-blue | `#006AF1` | fact | Mid blue; line OK |
+| mid-blue-alias | `#0068EB` | fact | Mid blue family alias |
+| dark-navy | `#002A60` | fact | Preferred card-header / table-header blue |
+| half-black | `#808080` | fact | 50% black — allowed table header |
+| green | `#00A400` | fact | Secondary |
+| light-green | `#00D300` | fact | Secondary / gradient |
+| magenta | `#EC008C` | fact | Secondary |
+| dark-magenta | `#C1004B` | fact | Secondary |
+| purple | `#9700DC` | fact | Secondary |
 
-**Lines**: `references/mblm/LINE_RULES.md` — no yellow lines; blue-only above cards;
-white-only text on black fills. **Gradients**: mainly section dividers —
-see `COLORS.md`.
+**Lines**: no yellow lines; lines above cards use dark-navy / mid-blue / cyan only; white-only text on black fills. **Gradients**: mainly section dividers. Full rules: `references/mblm/LINE_RULES.md` and `COLORS.md`.
 
 ## III. Typography
 
-| Role | Family | Weight / size |
+| Role | Family | Weight |
 |---|---|---|
-| cover title | BentonSansCond | **Light 60 or 72** (prefer 72) |
-| cover subtitle | BentonSansCond | **24 or 32** (prefer 28–32) |
-| agenda / content page title | BentonSansCond | **Light 47 only** |
-| content subtitle | BentonSansCond | **Regular 18 or 20** (prefer 20); `#000000` |
-| body | BentonSansCond | **Regular 16 or 20** locked deck-wide (**prefer 20**) |
-| accents < ~24px @ 1280 | BentonSansCond | **Bold** |
-| topic headers | BentonSansCond | **Medium** |
-| Supertext | BentonSansCond | **Black** outline **1.25pt**, ≥150pt, edge-to-edge |
+| title | BentonSansCond, Arial Narrow, Arial, sans-serif | Light (content titles 47pt; cover 60–72) |
+| body | BentonSansCond, Arial Narrow, Arial, sans-serif | Regular 16–20 (prefer 20) |
 
-**Editable text**: one object per paragraph — `TEXT_BOXES.md`. Normal kerning;
-**no kickers**. Fallback when Benton unavailable: Arial Narrow → Arial
-(`TYPOGRAPHY.md`).
+> PPT Master does not auto-embed fonts. Prefer BentonSansCond when installed; otherwise Arial Narrow then Arial. Content subtitle Regular 18–20 in `#000000`. No kickers. Normal kerning. Supertext: BentonSansCond Black outline ≥150pt, stroke 1.25pt. See `references/mblm/TYPOGRAPHY.md` and `LAYOUT_METRICS.md`.
 
 ## IV. Logo
 
-- Files (workspace-relative):
-  - `../images/MBLM_LOGO_White background.svg` — positive on light
-  - `../images/MBLM_LOGO_dark background.svg` — negative on dark
-  - `../images/MBLM_LOGO_Brand color.svg` — black mark on `#FFF200`
-  - `../images/MBLM_LOGO_Yellow background.svg` — framed inverse (legacy)
-- Package copies also live under `${SKILL_DIR}/assets/mblm/logos/`
-- Usage: every cover + closing; content pages: corner mark top-right
-- **v4.1 size**: content logo **88.4×44.2 @ 1148.2,39.7**; cover/divider/thanks
-  **138×69 @ 40,40** (`LAYOUT_METRICS.md`)
-- No tagline when logo present; no bottom MBLM wordmark if logo on slide
-- Rules: `references/mblm/LOGOS.md`
+- File: `images/MBLM_LOGO_White background.svg` (positive); also dark / brand-color / yellow lockups in `images/`
+- Usage: always
+
+Content slides: 2.34×1.17 cm at x=30.38 cm, y=1.05 cm. Cover / divider / thank-you: 3.65 cm wide, left-aligned at 1.05 cm margins. No tagline and no bottom MBLM wordmark when logo is present. See `references/mblm/LOGOS.md`.
 
 ## V. Voice & Tone
 
-- Formality: professional-intimate (agency)
+- Formality: professional, intimate, confident
 - Person: we / you
-- Emoji: forbidden (default)
-- Abbreviations: spell-out-first for client terms; MBLM product names as provided
+- Emoji: forbidden in client decks unless explicitly requested
+- Abbreviations: spell-out-first-use for client-facing terms; product names may stay as given
 
 ## VI. Icon Style
 
-- Preference: linear / thin-stroke geometric (kit icons)
-- Prefer `${SKILL_DIR}/assets/mblm/icons/` over generic libraries for MBLM service metaphors
-- Always quote paths for `MBLM_ UI-UX Design.svg` (leading space in filename)
+- Preference: stroke
+
+Prefer kit icons under `assets/mblm/icons/` (thin-stroke set). Keep one family across the deck. Quote paths carefully for names with leading spaces.
