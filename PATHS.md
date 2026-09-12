@@ -11,3 +11,6 @@ Canonical path document: [`references/mblm/PATHS.md`](references/mblm/PATHS.md).
 | References | `${SKILL_DIR}/references/mblm/` |
 
 No username paths. Expand every tool call from `SKILL_DIR`.
+
+| Decked skills / media | `${SKILL_DIR}/skills/mblm-*`, `templates/decks/mblm-r2/` |
+| Orchestration | `${SKILL_DIR}/docs/STEP4_INTEGRATION.md` |

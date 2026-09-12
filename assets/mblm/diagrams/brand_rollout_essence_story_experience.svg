@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720"
+  data-mblm-diagram="brand_rollout" data-archetype="brand-rollout">
+  <rect width="1280" height="720" fill="#ffffff"/>
+  <text x="60" y="36" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.5" fill="#999999">BRAND IMPLEMENTATION &amp; ROLL-OUT</text>
+
+<text x="60" y="90" font-family="Georgia,'Times New Roman',serif" font-size="48" font-weight="300" fill="#000000">Essence</text>
+
+    <text x="60" y="120" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">BRAND DISCOVERY</text>
+    <line x1="60" y1="126" x2="400" y2="126" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(60,134) scale(0.75)">
+    <circle cx="28" cy="28" r="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="28" r="17" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 16 v24 M22 16 h8 a8 8 0 0 1 0 16 h-8 M30 32 l8 10" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(107,134) scale(0.75)">
+    <circle cx="24" cy="24" r="14" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="34" y1="34" x2="46" y2="46" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="60" y="210" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">BRAND PROMISE</text>
+    <line x1="60" y1="216" x2="400" y2="216" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(60,224) scale(0.75)">
+    <line x1="20" y1="10" x2="20" y2="46" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="20" y1="10" x2="28" y2="10" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="20" y1="46" x2="28" y2="46" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="30" y1="18" x2="46" y2="18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="30" y1="26" x2="44" y2="26" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="30" y1="34" x2="42" y2="34" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(107,224) scale(0.75)">
+    <path d="M14 8 h22 l10 10 v30 H14 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="36,8 36,18 46,18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="20" y1="28" x2="40" y2="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="20" y1="34" x2="40" y2="34" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="20" y1="40" x2="34" y2="40" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="60" y="300" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">IDENTITY / BRAND ARCH.</text>
+    <line x1="60" y1="306" x2="400" y2="306" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(60,314) scale(0.75)"><g transform="translate(8,4) scale(0.7)">
+    <circle cx="28" cy="28" r="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="28" r="17" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 16 v24 M22 16 h8 a8 8 0 0 1 0 16 h-8 M30 32 l8 10" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(4,34) scale(0.4)">
+    <circle cx="28" cy="28" r="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="28" r="17" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 16 v24 M22 16 h8 a8 8 0 0 1 0 16 h-8 M30 32 l8 10" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(24,34) scale(0.4)">
+    <circle cx="28" cy="28" r="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="28" r="17" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 16 v24 M22 16 h8 a8 8 0 0 1 0 16 h-8 M30 32 l8 10" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(40,38) scale(0.28)">
+    <circle cx="28" cy="28" r="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="28" r="17" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 16 v24 M22 16 h8 a8 8 0 0 1 0 16 h-8 M30 32 l8 10" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g></g>
+            
+
+    <text x="60" y="390" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">DESIGN SYSTEM</text>
+    <line x1="60" y1="396" x2="400" y2="396" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(60,404) scale(0.75)">
+    <rect x="8" y="8" width="40" height="40" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="12" y="12" width="10" height="10" fill="#000" stroke="#000"/>
+    <rect x="24" y="12" width="10" height="10" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="26" y1="14" x2="32" y2="20" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="32" y1="14" x2="26" y2="20" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="36" y="12" width="10" height="10" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="38" y="21" font-family="Arial,sans-serif" font-size="9" fill="#000">A</text>
+    <line x1="12" y1="30" x2="44" y2="30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="12" y1="36" x2="40" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="12" y1="42" x2="36" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(107,404) scale(0.75)">
+    <path d="M14 8 h22 l10 10 v30 H14 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="36,8 36,18 46,18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="18" y="32" font-family="Georgia,serif" font-size="10" fill="#000">ABC</text>
+    <line x1="18" y1="38" x2="40" y2="38" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="42" x2="36" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="60" y="480" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">BRAND TEMPLATES</text>
+    <line x1="60" y1="486" x2="400" y2="486" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(60,494) scale(0.75)">
+    <rect x="6" y="8" width="44" height="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="28" y1="36" x2="28" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="44" x2="38" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="12" y="24" width="6" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="22" y="18" width="6" height="14" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="32" y="14" width="6" height="18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(107,494) scale(0.75)">
+    <rect x="10" y="8" width="36" height="40" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="8" width="36" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="16" width="18" height="16" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="28" y="16" width="18" height="16" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="32" width="36" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="40" width="36" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="60" y="570" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">BRAND GUIDELINES</text>
+    <line x1="60" y1="576" x2="400" y2="576" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(60,584) scale(0.75)">
+    <path d="M14 8 h22 l10 10 v30 H14 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="36,8 36,18 46,18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="30" cy="34" r="9" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="30" cy="34" r="6.5" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M27 28 v12 M27 28 h3.5 a3.5 3.5 0 0 1 0 7 H27 M30.5 35 l3.5 5" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(107,584) scale(0.75)">
+    <path d="M8 16 q12 -6 20 0 v28 q-10 -4 -20 0 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 16 q12 -6 20 0 v28 q-10 -4 -20 0 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="28" y1="16" x2="28" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="14" y1="24" x2="24" y2="24" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="14" y1="30" x2="24" y2="30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="32" y1="24" x2="42" y2="24" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="32" y1="30" x2="42" y2="30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(154,584) scale(0.75)">
+    <path d="M14 8 h22 l10 10 v30 H14 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="36,8 36,18 46,18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="18" y="32" font-family="Georgia,serif" font-size="10" fill="#000">ABC</text>
+    <line x1="18" y1="38" x2="40" y2="38" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="42" x2="36" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+<text x="460" y="90" font-family="Georgia,'Times New Roman',serif" font-size="48" font-weight="300" fill="#000000">Story</text>
+
+    <text x="460" y="120" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">BRAND MESSAGING</text>
+    <line x1="460" y1="126" x2="800" y2="126" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(460,134) scale(0.75)">
+    <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(507,134) scale(0.75)">
+    <rect x="10" y="10" width="36" height="26" rx="6" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 36 l-4 10 l10 -8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="20" x2="38" y2="20" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="26" x2="32" y2="26" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(554,134) scale(0.75)">
+        <g transform="translate(-12.2,4.9) scale(0.65)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <g transform="translate(-5.4,2.8) scale(0.8)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <g transform="translate(0.0,0.0) scale(1.0)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <g transform="translate(16.6,2.8) scale(0.8)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <g transform="translate(31.8,4.9) scale(0.65)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g></g>
+<g transform="translate(601,134) scale(0.75)">
+    <path d="M8 16 q12 -6 20 0 v28 q-10 -4 -20 0 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 16 q12 -6 20 0 v28 q-10 -4 -20 0 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="28" y1="16" x2="28" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="14" y1="24" x2="24" y2="24" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="14" y1="30" x2="24" y2="30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="32" y1="24" x2="42" y2="24" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="32" y1="30" x2="42" y2="30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="460" y="210" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">APPLICATION TEMPLATES</text>
+    <line x1="460" y1="216" x2="800" y2="216" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(460,224) scale(0.75)">
+    <rect x="6" y="8" width="44" height="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="28" y1="36" x2="28" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="44" x2="38" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="12" y="24" width="6" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="22" y="18" width="6" height="14" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="32" y="14" width="6" height="18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(507,224) scale(0.75)">
+    <path d="M14 8 h22 l10 10 v30 H14 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="36,8 36,18 46,18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="20" y1="28" x2="40" y2="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="20" y1="34" x2="40" y2="34" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="20" y1="40" x2="34" y2="40" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(554,224) scale(0.75)">
+    <rect x="10" y="8" width="36" height="40" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="8" width="36" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="16" width="18" height="16" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="28" y="16" width="18" height="16" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="32" width="36" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="40" width="36" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="460" y="300" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">MARKETING CONTENT</text>
+    <line x1="460" y1="306" x2="800" y2="306" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(460,314) scale(0.75)"><rect x="8" y="8" width="40" height="28" rx="1" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="11" y="11" width="34" height="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28" y1="36" x2="28" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="42" x2="40" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="28" cy="22" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="28" cy="22" r="5" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.5 17.5 v9 M25.5 17.5 h2.5 a2.5 2.5 0 0 1 0 5 H25.5 M28 22.5 l2.5 4" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(507,314) scale(0.75)">
+    <rect x="8" y="18" width="40" height="26" rx="4" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="31" r="9" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="31" r="5" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="12" y="12" width="10" height="6" rx="1" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="42" cy="15" r="2.5" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(554,314) scale(0.75)">
+    <rect x="10" y="14" width="36" height="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="14,36 22,26 28,32 34,24 42,34" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="18" cy="22" r="3" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(601,314) scale(0.75)">
+    <rect x="10" y="12" width="36" height="32" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="14" y1="12" x2="14" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="42" y1="12" x2="42" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="14" cy="18" r="1.2" fill="#000"/>
+    <circle cx="14" cy="26" r="1.2" fill="#000"/>
+    <circle cx="14" cy="34" r="1.2" fill="#000"/>
+    <circle cx="42" cy="18" r="1.2" fill="#000"/>
+    <circle cx="42" cy="26" r="1.2" fill="#000"/>
+    <circle cx="42" cy="34" r="1.2" fill="#000"/>
+    <polygon points="24,22 24,34 36,28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="460" y="390" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">GO TO MARKET CAMPAIGN</text>
+    <line x1="460" y1="396" x2="800" y2="396" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(460,404) scale(0.75)">
+    <path d="M8 12 l12 -4 v40 l-12 4 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="20" y="8" width="16" height="40" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 8 l12 4 v40 l-12 -4 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="12" y1="20" x2="16" y2="19" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="24" y1="18" x2="32" y2="18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="40" y1="19" x2="44" y2="20" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(507,404) scale(0.75)">
+    <rect x="6" y="8" width="44" height="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="28" y1="36" x2="28" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="44" x2="38" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="12" y="24" width="6" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="22" y="18" width="6" height="14" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="32" y="14" width="6" height="18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(554,404) scale(0.75)"><rect x="8" y="8" width="40" height="28" rx="1" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="11" y="11" width="34" height="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28" y1="36" x2="28" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="42" x2="40" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="16,28 22,22 28,24 34,16 40,18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+            
+<text x="860" y="90" font-family="Georgia,'Times New Roman',serif" font-size="48" font-weight="300" fill="#000000">Experience</text>
+
+    <text x="860" y="120" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">EMPLOYEE LAUNCH</text>
+    <line x1="860" y1="126" x2="1200" y2="126" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(860,134) scale(0.75)">
+        <g transform="translate(-12.2,4.9) scale(0.65)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <g transform="translate(-5.4,2.8) scale(0.8)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <g transform="translate(0.0,0.0) scale(1.0)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <g transform="translate(16.6,2.8) scale(0.8)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <g transform="translate(31.8,4.9) scale(0.65)">
+          <circle cx="28" cy="14" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="28" y1="21" x2="28" y2="36" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="18,28 28,26 38,30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <polyline points="28,36 20,48 28,36 36,48" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g></g>
+<g transform="translate(907,134) scale(0.75)">
+    <rect x="12" y="18" width="32" height="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="12" width="36" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="28" y1="12" x2="28" y2="46" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="12" y1="30" x2="44" y2="30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(954,134) scale(0.75)">
+    <rect x="8" y="16" width="40" height="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="8,16 28,32 48,16" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="860" y="210" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">EXTERNAL LAUNCH</text>
+    <line x1="860" y1="216" x2="1200" y2="216" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(860,224) scale(0.75)"><rect x="8" y="8" width="40" height="28" rx="1" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="11" y="11" width="34" height="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28" y1="36" x2="28" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="42" x2="40" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="18" x2="40" y2="18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="23" x2="36" y2="23" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="28" x2="32" y2="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(907,224) scale(0.75)">
+    <rect x="16" y="6" width="24" height="44" rx="3" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="19" y="10" width="18" height="32" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="46" r="2" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(954,224) scale(0.75)">
+    <rect x="18" y="4" width="20" height="48" rx="3" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="21" y="10" width="14" height="32" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="46" r="2" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(1001,224) scale(0.75)">
+    <circle cx="28" cy="28" r="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="28" r="17" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 16 v24 M22 16 h8 a8 8 0 0 1 0 16 h-8 M30 32 l8 10" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="860" y="300" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">WEBSITE</text>
+    <line x1="860" y1="306" x2="1200" y2="306" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(860,314) scale(0.75)"><rect x="8" y="8" width="40" height="28" rx="1" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="11" y="11" width="34" height="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28" y1="36" x2="28" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="42" x2="40" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 20 q4 -4 8 0 q4 4 8 0 q4 -4 8 0" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="18" y1="26" x2="38" y2="26" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(907,314) scale(0.75)">
+    <rect x="10" y="10" width="36" height="10" rx="3" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="15" r="2" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="24" width="36" height="10" rx="3" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="29" r="2" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="38" width="36" height="10" rx="3" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="43" r="2" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(954,314) scale(0.75)"><rect x="8" y="8" width="40" height="28" rx="1" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="11" y="11" width="34" height="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28" y1="36" x2="28" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="42" x2="40" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="22,16 16,22 22,28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="34,16 40,22 34,28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+            
+
+    <text x="860" y="390" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">CHANNEL PLANNING</text>
+    <line x1="860" y1="396" x2="1200" y2="396" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(860,404) scale(0.75)"><rect x="8" y="8" width="40" height="28" rx="1" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="11" y="11" width="34" height="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28" y1="36" x2="28" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="42" x2="40" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="28" cy="22" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="28" cy="22" r="5" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.5 17.5 v9 M25.5 17.5 h2.5 a2.5 2.5 0 0 1 0 5 H25.5 M28 22.5 l2.5 4" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(907,404) scale(0.75)">
+    <rect x="12" y="18" width="32" height="28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="12" width="36" height="8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="28" y1="12" x2="28" y2="46" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="12" y1="30" x2="44" y2="30" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(954,404) scale(0.75)">
+    <rect x="16" y="6" width="24" height="44" rx="3" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="19" y="10" width="18" height="32" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="46" r="2" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+
+    <text x="860" y="480" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">SOCIAL MEDIA STRATEGY</text>
+    <line x1="860" y1="486" x2="1200" y2="486" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(860,494) scale(0.6428571428571429)">
+    <rect x="10" y="12" width="36" height="32" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="14" y1="12" x2="14" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="42" y1="12" x2="42" y2="44" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="14" cy="18" r="1.2" fill="#000"/>
+    <circle cx="14" cy="26" r="1.2" fill="#000"/>
+    <circle cx="14" cy="34" r="1.2" fill="#000"/>
+    <circle cx="42" cy="18" r="1.2" fill="#000"/>
+    <circle cx="42" cy="26" r="1.2" fill="#000"/>
+    <circle cx="42" cy="34" r="1.2" fill="#000"/>
+    <polygon points="24,22 24,34 36,28" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(901,494) scale(0.6428571428571429)">
+    <rect x="18" y="4" width="20" height="48" rx="3" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="21" y="10" width="14" height="32" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="46" r="2" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(942,494) scale(0.6428571428571429)">
+    <circle cx="28" cy="28" r="18" fill="#000000" stroke="#000000"/>
+    <text x="28" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">f</text>
+    </g>
+<g transform="translate(983,494) scale(0.6428571428571429)">
+    <circle cx="28" cy="28" r="18" fill="#000000" stroke="#000000"/>
+    <text x="28" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">X</text>
+    </g>
+<g transform="translate(1024,494) scale(0.6428571428571429)">
+    <circle cx="28" cy="28" r="18" fill="#000000" stroke="#000000"/>
+    <text x="28" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">in</text>
+    </g>
+            
+
+    <text x="860" y="568" font-family="Arial,Helvetica,sans-serif" font-size="9" letter-spacing="1.2" fill="#666666">BRAND ROLL OUT</text>
+    <line x1="860" y1="574" x2="1200" y2="574" stroke="#cccccc" stroke-width="0.75" fill="none"/>
+    <g transform="translate(860,582) scale(0.75)"><rect x="8" y="8" width="40" height="28" rx="1" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="11" y="11" width="34" height="22" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="28" y1="36" x2="28" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="16" y1="42" x2="40" y2="42" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="28" cy="22" r="7" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="28" cy="22" r="5" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.5 17.5 v9 M25.5 17.5 h2.5 a2.5 2.5 0 0 1 0 5 H25.5 M28 22.5 l2.5 4" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(907,582) scale(0.75)">
+    <path d="M14 8 h22 l10 10 v30 H14 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="36,8 36,18 46,18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="20" y="28" width="20" height="14" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="22,40 28,34 32,38 36,32 38,34" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+<g transform="translate(954,582) scale(0.75)">
+    <path d="M14 8 h22 l10 10 v30 H14 Z" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="36,8 36,18 46,18" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 42 l6 -18 h4 l6 18 M24 36 h12" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 24 v18 M40 24 q6 0 6 8 q0 8 -6 8" stroke="#000000" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+            
+</svg>

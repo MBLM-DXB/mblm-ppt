@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="mblm_r2_master" data-pptx-master-name="MBLM R2 Consulting" data-pptx-layout="four_step_timeline" data-pptx-layout-name="Four Step Timeline">
+  <rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false" />
+  <image id="layout-logo" x="1148.2" y="39.7" width="88.4" height="44.2" href="../images/MBLM_LOGO_White background.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false" data-pptx-role="logo" />
+  <line id="tl" x1="80" y1="180" x2="1200" y2="180" stroke="#BFBFBF" stroke-width="2" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="n0" cx="160" cy="180" r="12" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <line id="vd0" x1="300" y1="250" x2="300" y2="640" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="3 4" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a0-b0" cx="56" cy="310" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a0-b1" cx="56" cy="350" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a0-b2" cx="56" cy="390" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d0-b0" cx="56" cy="490" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d0-b1" cx="56" cy="530" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d0-b2" cx="56" cy="570" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="n1" cx="460" cy="180" r="12" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <line id="vd1" x1="600" y1="250" x2="600" y2="640" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="3 4" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a1-b0" cx="356" cy="310" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a1-b1" cx="356" cy="350" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a1-b2" cx="356" cy="390" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d1-b0" cx="356" cy="490" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d1-b1" cx="356" cy="530" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d1-b2" cx="356" cy="570" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="n2" cx="760" cy="180" r="12" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <line id="vd2" x1="900" y1="250" x2="900" y2="640" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="3 4" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a2-b0" cx="656" cy="310" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a2-b1" cx="656" cy="350" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a2-b2" cx="656" cy="390" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d2-b0" cx="656" cy="490" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d2-b1" cx="656" cy="530" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d2-b2" cx="656" cy="570" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="n3" cx="1060" cy="180" r="12" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a3-b0" cx="956" cy="310" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a3-b1" cx="956" cy="350" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="a3-b2" cx="956" cy="390" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d3-b0" cx="956" cy="490" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d3-b1" cx="956" cy="530" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d3-b2" cx="956" cy="570" r="3.5" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="40 40 1080 60">
+    <text id="title-carrier" data-pptx-carrier="true" x="40" y="82" fill="#000000" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="40" font-weight="300">{{TITLE}}</text>
+  </g>
+  <g id="ph0" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="40 210 240 36">
+    <text id="ph0-carrier" data-pptx-carrier="true" x="160" y="230" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{PHASE_1_TITLE}}</text>
+  </g>
+  <g id="al0" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="40 260 240 24">
+    <text id="al0-carrier" data-pptx-carrier="true" x="160" y="276" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">Key activities</text>
+  </g>
+  <g id="a0-t0" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="68 300 202 36">
+    <text id="a0-t0-carrier" data-pptx-carrier="true" x="68" y="316" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_1_ACTION_1}</text>
+  </g>
+  <g id="a0-t1" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="68 340 202 36">
+    <text id="a0-t1-carrier" data-pptx-carrier="true" x="68" y="356" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_1_ACTION_2}</text>
+  </g>
+  <g id="a0-t2" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="68 380 202 36">
+    <text id="a0-t2-carrier" data-pptx-carrier="true" x="68" y="396" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_1_ACTION_3}</text>
+  </g>
+  <g id="dl0" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="40 440 240 24">
+    <text id="dl0-carrier" data-pptx-carrier="true" x="160" y="456" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">Main deliverables</text>
+  </g>
+  <g id="d0-t0" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="68 480 202 36">
+    <text id="d0-t0-carrier" data-pptx-carrier="true" x="68" y="496" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_1_DELIVERABLE_1}</text>
+  </g>
+  <g id="d0-t1" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="68 520 202 36">
+    <text id="d0-t1-carrier" data-pptx-carrier="true" x="68" y="536" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_1_DELIVERABLE_2}</text>
+  </g>
+  <g id="d0-t2" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="68 560 202 36">
+    <text id="d0-t2-carrier" data-pptx-carrier="true" x="68" y="576" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_1_DELIVERABLE_3}</text>
+  </g>
+  <g id="ph1" data-pptx-placeholder="subtitle" data-pptx-idx="10" data-pptx-bounds="340 210 240 36">
+    <text id="ph1-carrier" data-pptx-carrier="true" x="460" y="230" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{PHASE_2_TITLE}}</text>
+  </g>
+  <g id="al1" data-pptx-placeholder="body" data-pptx-idx="11" data-pptx-bounds="340 260 240 24">
+    <text id="al1-carrier" data-pptx-carrier="true" x="460" y="276" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">Key activities</text>
+  </g>
+  <g id="a1-t0" data-pptx-placeholder="body" data-pptx-idx="12" data-pptx-bounds="368 300 202 36">
+    <text id="a1-t0-carrier" data-pptx-carrier="true" x="368" y="316" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_2_ACTION_1}</text>
+  </g>
+  <g id="a1-t1" data-pptx-placeholder="body" data-pptx-idx="13" data-pptx-bounds="368 340 202 36">
+    <text id="a1-t1-carrier" data-pptx-carrier="true" x="368" y="356" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_2_ACTION_2}</text>
+  </g>
+  <g id="a1-t2" data-pptx-placeholder="body" data-pptx-idx="14" data-pptx-bounds="368 380 202 36">
+    <text id="a1-t2-carrier" data-pptx-carrier="true" x="368" y="396" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_2_ACTION_3}</text>
+  </g>
+  <g id="dl1" data-pptx-placeholder="body" data-pptx-idx="15" data-pptx-bounds="340 440 240 24">
+    <text id="dl1-carrier" data-pptx-carrier="true" x="460" y="456" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">Main deliverables</text>
+  </g>
+  <g id="d1-t0" data-pptx-placeholder="body" data-pptx-idx="16" data-pptx-bounds="368 480 202 36">
+    <text id="d1-t0-carrier" data-pptx-carrier="true" x="368" y="496" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_2_DELIVERABLE_1}</text>
+  </g>
+  <g id="d1-t1" data-pptx-placeholder="body" data-pptx-idx="17" data-pptx-bounds="368 520 202 36">
+    <text id="d1-t1-carrier" data-pptx-carrier="true" x="368" y="536" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_2_DELIVERABLE_2}</text>
+  </g>
+  <g id="d1-t2" data-pptx-placeholder="body" data-pptx-idx="18" data-pptx-bounds="368 560 202 36">
+    <text id="d1-t2-carrier" data-pptx-carrier="true" x="368" y="576" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_2_DELIVERABLE_3}</text>
+  </g>
+  <g id="ph2" data-pptx-placeholder="subtitle" data-pptx-idx="19" data-pptx-bounds="640 210 240 36">
+    <text id="ph2-carrier" data-pptx-carrier="true" x="760" y="230" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{PHASE_3_TITLE}}</text>
+  </g>
+  <g id="al2" data-pptx-placeholder="body" data-pptx-idx="20" data-pptx-bounds="640 260 240 24">
+    <text id="al2-carrier" data-pptx-carrier="true" x="760" y="276" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">Key activities</text>
+  </g>
+  <g id="a2-t0" data-pptx-placeholder="body" data-pptx-idx="21" data-pptx-bounds="668 300 202 36">
+    <text id="a2-t0-carrier" data-pptx-carrier="true" x="668" y="316" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_3_ACTION_1}</text>
+  </g>
+  <g id="a2-t1" data-pptx-placeholder="body" data-pptx-idx="22" data-pptx-bounds="668 340 202 36">
+    <text id="a2-t1-carrier" data-pptx-carrier="true" x="668" y="356" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_3_ACTION_2}</text>
+  </g>
+  <g id="a2-t2" data-pptx-placeholder="body" data-pptx-idx="23" data-pptx-bounds="668 380 202 36">
+    <text id="a2-t2-carrier" data-pptx-carrier="true" x="668" y="396" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_3_ACTION_3}</text>
+  </g>
+  <g id="dl2" data-pptx-placeholder="body" data-pptx-idx="24" data-pptx-bounds="640 440 240 24">
+    <text id="dl2-carrier" data-pptx-carrier="true" x="760" y="456" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">Main deliverables</text>
+  </g>
+  <g id="d2-t0" data-pptx-placeholder="body" data-pptx-idx="25" data-pptx-bounds="668 480 202 36">
+    <text id="d2-t0-carrier" data-pptx-carrier="true" x="668" y="496" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_3_DELIVERABLE_1}</text>
+  </g>
+  <g id="d2-t1" data-pptx-placeholder="body" data-pptx-idx="26" data-pptx-bounds="668 520 202 36">
+    <text id="d2-t1-carrier" data-pptx-carrier="true" x="668" y="536" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_3_DELIVERABLE_2}</text>
+  </g>
+  <g id="d2-t2" data-pptx-placeholder="body" data-pptx-idx="27" data-pptx-bounds="668 560 202 36">
+    <text id="d2-t2-carrier" data-pptx-carrier="true" x="668" y="576" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_3_DELIVERABLE_3}</text>
+  </g>
+  <g id="ph3" data-pptx-placeholder="subtitle" data-pptx-idx="28" data-pptx-bounds="940 210 240 36">
+    <text id="ph3-carrier" data-pptx-carrier="true" x="1060" y="230" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{PHASE_4_TITLE}}</text>
+  </g>
+  <g id="al3" data-pptx-placeholder="body" data-pptx-idx="29" data-pptx-bounds="940 260 240 24">
+    <text id="al3-carrier" data-pptx-carrier="true" x="1060" y="276" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">Key activities</text>
+  </g>
+  <g id="a3-t0" data-pptx-placeholder="body" data-pptx-idx="30" data-pptx-bounds="968 300 202 36">
+    <text id="a3-t0-carrier" data-pptx-carrier="true" x="968" y="316" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_4_ACTION_1}</text>
+  </g>
+  <g id="a3-t1" data-pptx-placeholder="body" data-pptx-idx="31" data-pptx-bounds="968 340 202 36">
+    <text id="a3-t1-carrier" data-pptx-carrier="true" x="968" y="356" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_4_ACTION_2}</text>
+  </g>
+  <g id="a3-t2" data-pptx-placeholder="body" data-pptx-idx="32" data-pptx-bounds="968 380 202 36">
+    <text id="a3-t2-carrier" data-pptx-carrier="true" x="968" y="396" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_4_ACTION_3}</text>
+  </g>
+  <g id="dl3" data-pptx-placeholder="body" data-pptx-idx="33" data-pptx-bounds="940 440 240 24">
+    <text id="dl3-carrier" data-pptx-carrier="true" x="1060" y="456" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">Main deliverables</text>
+  </g>
+  <g id="d3-t0" data-pptx-placeholder="body" data-pptx-idx="34" data-pptx-bounds="968 480 202 36">
+    <text id="d3-t0-carrier" data-pptx-carrier="true" x="968" y="496" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_4_DELIVERABLE_1}</text>
+  </g>
+  <g id="d3-t1" data-pptx-placeholder="body" data-pptx-idx="35" data-pptx-bounds="968 520 202 36">
+    <text id="d3-t1-carrier" data-pptx-carrier="true" x="968" y="536" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_4_DELIVERABLE_2}</text>
+  </g>
+  <g id="d3-t2" data-pptx-placeholder="body" data-pptx-idx="36" data-pptx-bounds="968 560 202 36">
+    <text id="d3-t2-carrier" data-pptx-carrier="true" x="968" y="576" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{PHASE_4_DELIVERABLE_3}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1200 680 40 24" data-pptx-idx="37">
+    <text id="page-number-carrier" data-pptx-carrier="true" x="1240" y="698" text-anchor="end" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="12">{{PAGE}}</text>
+  </g>
+</svg>

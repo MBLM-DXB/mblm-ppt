@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="mblm_r2_master" data-pptx-master-name="MBLM R2 Consulting" data-pptx-layout="from_to_compare" data-pptx-layout-name="From-To Comparison">
+  <rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false" />
+  <image id="layout-logo" x="1148.2" y="39.7" width="88.4" height="44.2" href="../images/MBLM_LOGO_White background.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false" data-pptx-role="logo" />
+  <rect id="fh" x="40" y="130" width="560" height="44" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="th" x="680" y="130" width="560" height="44" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <line id="r0" x1="40" y1="280" x2="1240" y2="280" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="4 4" data-pptx-layer="layout" data-pptx-editable="false" />
+  <polygon id="tr0" points="640,220 660,235 640,250" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <line id="r1" x1="40" y1="380" x2="1240" y2="380" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="4 4" data-pptx-layer="layout" data-pptx-editable="false" />
+  <polygon id="tr1" points="640,320 660,335 640,350" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <line id="r2" x1="40" y1="480" x2="1240" y2="480" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="4 4" data-pptx-layer="layout" data-pptx-editable="false" />
+  <polygon id="tr2" points="640,420 660,435 640,450" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <line id="r3" x1="40" y1="580" x2="1240" y2="580" stroke="#9CA3AF" stroke-width="1" stroke-dasharray="4 4" data-pptx-layer="layout" data-pptx-editable="false" />
+  <polygon id="tr3" points="640,520 660,535 640,550" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="40 40 1080 60">
+    <text id="title-carrier" data-pptx-carrier="true" x="40" y="82" fill="#000000" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="40" font-weight="300">{{TITLE}}</text>
+  </g>
+  <g id="ft" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="40 130 560 44">
+    <text id="ft-carrier" data-pptx-carrier="true" x="320" y="152" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="18" font-weight="700">{{FROM_TITLE}}</text>
+  </g>
+  <g id="tt" data-pptx-placeholder="subtitle" data-pptx-idx="2" data-pptx-bounds="680 130 560 44">
+    <text id="tt-carrier" data-pptx-carrier="true" x="960" y="152" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="18" font-weight="700">{{TO_TITLE}}</text>
+  </g>
+  <g id="fr0" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="40 200 520 70">
+    <text id="fr0-carrier" data-pptx-carrier="true" x="40" y="219" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{FROM_ROW_1}}</text>
+  </g>
+  <g id="tor0" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="680 200 520 70">
+    <text id="tor0-carrier" data-pptx-carrier="true" x="680" y="219" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{TO_ROW_1}}</text>
+  </g>
+  <g id="fr1" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="40 300 520 70">
+    <text id="fr1-carrier" data-pptx-carrier="true" x="40" y="319" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{FROM_ROW_2}}</text>
+  </g>
+  <g id="tor1" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="680 300 520 70">
+    <text id="tor1-carrier" data-pptx-carrier="true" x="680" y="319" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{TO_ROW_2}}</text>
+  </g>
+  <g id="fr2" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="40 400 520 70">
+    <text id="fr2-carrier" data-pptx-carrier="true" x="40" y="419" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{FROM_ROW_3}}</text>
+  </g>
+  <g id="tor2" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="680 400 520 70">
+    <text id="tor2-carrier" data-pptx-carrier="true" x="680" y="419" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{TO_ROW_3}}</text>
+  </g>
+  <g id="fr3" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="40 500 520 70">
+    <text id="fr3-carrier" data-pptx-carrier="true" x="40" y="519" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{FROM_ROW_4}}</text>
+  </g>
+  <g id="tor3" data-pptx-placeholder="body" data-pptx-idx="10" data-pptx-bounds="680 500 520 70">
+    <text id="tor3-carrier" data-pptx-carrier="true" x="680" y="519" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{TO_ROW_4}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1200 680 40 24" data-pptx-idx="11">
+    <text id="page-number-carrier" data-pptx-carrier="true" x="1240" y="698" text-anchor="end" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="12">{{PAGE}}</text>
+  </g>
+</svg>

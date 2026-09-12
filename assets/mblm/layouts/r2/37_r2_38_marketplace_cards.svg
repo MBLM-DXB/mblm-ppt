@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="mblm_r2_master" data-pptx-master-name="MBLM R2 Consulting" data-pptx-layout="marketplace_cards" data-pptx-layout-name="Marketplace Cards">
+  <rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false" />
+  <image id="layout-logo" x="1148.2" y="39.7" width="88.4" height="44.2" href="../images/MBLM_LOGO_White background.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false" data-pptx-role="logo" />
+  <line id="nl" x1="100" y1="280" x2="1180" y2="280" stroke="#00AEFF" stroke-width="2" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="nd0" cx="130" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="card0" x="40" y="140" width="190" height="110" fill="#000000" rx="8" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="ig0" x="114" y="155" width="32" height="32" fill="#E5E5E5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="nd1" cx="335" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="card1" x="245" y="140" width="190" height="110" fill="#000000" rx="8" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="ig1" x="319" y="155" width="32" height="32" fill="#E5E5E5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="nd2" cx="540" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="card2" x="450" y="140" width="190" height="110" fill="#000000" rx="8" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="ig2" x="524" y="155" width="32" height="32" fill="#E5E5E5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="nd3" cx="745" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="card3" x="655" y="140" width="190" height="110" fill="#000000" rx="8" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="ig3" x="729" y="155" width="32" height="32" fill="#E5E5E5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="nd4" cx="950" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="card4" x="860" y="140" width="190" height="110" fill="#000000" rx="8" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="ig4" x="934" y="155" width="32" height="32" fill="#E5E5E5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="nd5" cx="1155" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="card5" x="1065" y="140" width="190" height="110" fill="#000000" rx="8" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="ig5" x="1139" y="155" width="32" height="32" fill="#E5E5E5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="40 40 1080 60">
+    <text id="title-carrier" data-pptx-carrier="true" x="40" y="82" fill="#000000" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="40" font-weight="300">{{TITLE}}</text>
+  </g>
+  <g id="ct0" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="48 200 174 40">
+    <text id="ct0-carrier" data-pptx-carrier="true" x="135" y="217" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{CARD_1_TITLE}}</text>
+  </g>
+  <g id="cd0" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="40 320 190 280">
+    <text id="cd0-carrier" data-pptx-carrier="true" x="135" y="337" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{CARD_1_DESC}}</text>
+  </g>
+  <g id="ct1" data-pptx-placeholder="subtitle" data-pptx-idx="3" data-pptx-bounds="253 200 174 40">
+    <text id="ct1-carrier" data-pptx-carrier="true" x="340" y="217" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{CARD_2_TITLE}}</text>
+  </g>
+  <g id="cd1" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="245 320 190 280">
+    <text id="cd1-carrier" data-pptx-carrier="true" x="340" y="337" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{CARD_2_DESC}}</text>
+  </g>
+  <g id="ct2" data-pptx-placeholder="subtitle" data-pptx-idx="5" data-pptx-bounds="458 200 174 40">
+    <text id="ct2-carrier" data-pptx-carrier="true" x="545" y="217" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{CARD_3_TITLE}}</text>
+  </g>
+  <g id="cd2" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="450 320 190 280">
+    <text id="cd2-carrier" data-pptx-carrier="true" x="545" y="337" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{CARD_3_DESC}}</text>
+  </g>
+  <g id="ct3" data-pptx-placeholder="subtitle" data-pptx-idx="7" data-pptx-bounds="663 200 174 40">
+    <text id="ct3-carrier" data-pptx-carrier="true" x="750" y="217" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{CARD_4_TITLE}}</text>
+  </g>
+  <g id="cd3" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="655 320 190 280">
+    <text id="cd3-carrier" data-pptx-carrier="true" x="750" y="337" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{CARD_4_DESC}}</text>
+  </g>
+  <g id="ct4" data-pptx-placeholder="subtitle" data-pptx-idx="9" data-pptx-bounds="868 200 174 40">
+    <text id="ct4-carrier" data-pptx-carrier="true" x="955" y="217" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{CARD_5_TITLE}}</text>
+  </g>
+  <g id="cd4" data-pptx-placeholder="body" data-pptx-idx="10" data-pptx-bounds="860 320 190 280">
+    <text id="cd4-carrier" data-pptx-carrier="true" x="955" y="337" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{CARD_5_DESC}}</text>
+  </g>
+  <g id="ct5" data-pptx-placeholder="subtitle" data-pptx-idx="11" data-pptx-bounds="1073 200 174 40">
+    <text id="ct5-carrier" data-pptx-carrier="true" x="1160" y="217" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{CARD_6_TITLE}}</text>
+  </g>
+  <g id="cd5" data-pptx-placeholder="body" data-pptx-idx="12" data-pptx-bounds="1065 320 190 280">
+    <text id="cd5-carrier" data-pptx-carrier="true" x="1160" y="337" fill="#000000" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{CARD_6_DESC}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1200 680 40 24" data-pptx-idx="13">
+    <text id="page-number-carrier" data-pptx-carrier="true" x="1240" y="698" text-anchor="end" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="12">{{PAGE}}</text>
+  </g>
+</svg>

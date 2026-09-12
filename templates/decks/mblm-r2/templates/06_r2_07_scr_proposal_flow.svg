@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="mblm_r2_master" data-pptx-master-name="MBLM R2 Consulting" data-pptx-layout="scr_proposal_flow" data-pptx-layout-name="SCR Proposal Flow">
+  <rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false" />
+  <image id="layout-logo" x="1148.2" y="39.7" width="88.4" height="44.2" href="../images/MBLM_LOGO_White background.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false" data-pptx-role="logo" />
+  <line id="flow" x1="100" y1="280" x2="1180" y2="280" stroke="#00AEFF" stroke-width="3" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sh0" x="40" y="140" width="260" height="44" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="sn0" cx="170" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sb00" x="40" y="320" width="260" height="100" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1.5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sb01" x="40" y="440" width="260" height="100" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1.5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sh1" x="340" y="140" width="260" height="44" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="sn1" cx="470" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sb10" x="340" y="320" width="260" height="100" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1.5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sb11" x="340" y="440" width="260" height="100" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1.5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sh2" x="640" y="140" width="260" height="44" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="sn2" cx="770" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sb20" x="640" y="320" width="260" height="100" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1.5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sb21" x="640" y="440" width="260" height="100" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1.5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sh3" x="940" y="140" width="260" height="44" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="sn3" cx="1070" cy="280" r="10" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sb30" x="940" y="320" width="260" height="100" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1.5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="sb31" x="940" y="440" width="260" height="100" fill="#FFFFFF" stroke="#BFBFBF" stroke-width="1.5" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="40 40 1080 60">
+    <text id="title-carrier" data-pptx-carrier="true" x="40" y="82" fill="#000000" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="40" font-weight="300">{{TITLE}}</text>
+  </g>
+  <g id="sht0" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="40 140 260 44">
+    <text id="sht0-carrier" data-pptx-carrier="true" x="170" y="160" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{STAGE_1_TITLE}}</text>
+  </g>
+  <g id="sbt00" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="52 340 236 60">
+    <text id="sbt00-carrier" data-pptx-carrier="true" x="52" y="358" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{STAGE_1_BOX_1}}</text>
+  </g>
+  <g id="sbt01" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="52 460 236 60">
+    <text id="sbt01-carrier" data-pptx-carrier="true" x="52" y="478" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{STAGE_1_BOX_2}}</text>
+  </g>
+  <g id="sht1" data-pptx-placeholder="subtitle" data-pptx-idx="4" data-pptx-bounds="340 140 260 44">
+    <text id="sht1-carrier" data-pptx-carrier="true" x="470" y="160" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{STAGE_2_TITLE}}</text>
+  </g>
+  <g id="sbt10" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="352 340 236 60">
+    <text id="sbt10-carrier" data-pptx-carrier="true" x="352" y="358" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{STAGE_2_BOX_1}}</text>
+  </g>
+  <g id="sbt11" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="352 460 236 60">
+    <text id="sbt11-carrier" data-pptx-carrier="true" x="352" y="478" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{STAGE_2_BOX_2}}</text>
+  </g>
+  <g id="sht2" data-pptx-placeholder="subtitle" data-pptx-idx="7" data-pptx-bounds="640 140 260 44">
+    <text id="sht2-carrier" data-pptx-carrier="true" x="770" y="160" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{STAGE_3_TITLE}}</text>
+  </g>
+  <g id="sbt20" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="652 340 236 60">
+    <text id="sbt20-carrier" data-pptx-carrier="true" x="652" y="358" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{STAGE_3_BOX_1}}</text>
+  </g>
+  <g id="sbt21" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="652 460 236 60">
+    <text id="sbt21-carrier" data-pptx-carrier="true" x="652" y="478" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{STAGE_3_BOX_2}}</text>
+  </g>
+  <g id="sht3" data-pptx-placeholder="subtitle" data-pptx-idx="10" data-pptx-bounds="940 140 260 44">
+    <text id="sht3-carrier" data-pptx-carrier="true" x="1070" y="160" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{STAGE_4_TITLE}}</text>
+  </g>
+  <g id="sbt30" data-pptx-placeholder="body" data-pptx-idx="11" data-pptx-bounds="952 340 236 60">
+    <text id="sbt30-carrier" data-pptx-carrier="true" x="952" y="358" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{STAGE_4_BOX_1}}</text>
+  </g>
+  <g id="sbt31" data-pptx-placeholder="body" data-pptx-idx="12" data-pptx-bounds="952 460 236 60">
+    <text id="sbt31-carrier" data-pptx-carrier="true" x="952" y="478" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{STAGE_4_BOX_2}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1200 680 40 24" data-pptx-idx="13">
+    <text id="page-number-carrier" data-pptx-carrier="true" x="1240" y="698" text-anchor="end" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="12">{{PAGE}}</text>
+  </g>
+</svg>

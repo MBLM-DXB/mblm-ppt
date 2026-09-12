@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="mblm_r2_master" data-pptx-master-name="MBLM R2 Consulting" data-pptx-layout="solution_gallery" data-pptx-layout-name="Solution Gallery">
+  <rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false" />
+  <image id="layout-logo" x="1148.2" y="39.7" width="88.4" height="44.2" href="../images/MBLM_LOGO_White background.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false" data-pptx-role="logo" />
+  <rect id="th0" x="40" y="130" width="280" height="200" fill="#E5E5E5" stroke="#BFBFBF" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="th1" x="350" y="130" width="280" height="200" fill="#E5E5E5" stroke="#BFBFBF" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="th2" x="660" y="130" width="280" height="200" fill="#E5E5E5" stroke="#BFBFBF" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="th3" x="970" y="130" width="280" height="200" fill="#E5E5E5" stroke="#BFBFBF" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="th4" x="40" y="360" width="280" height="200" fill="#E5E5E5" stroke="#BFBFBF" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="th5" x="350" y="360" width="280" height="200" fill="#E5E5E5" stroke="#BFBFBF" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="th6" x="660" y="360" width="280" height="200" fill="#E5E5E5" stroke="#BFBFBF" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="th7" x="970" y="360" width="280" height="200" fill="#E5E5E5" stroke="#BFBFBF" stroke-width="1" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="40 40 1080 60">
+    <text id="title-carrier" data-pptx-carrier="true" x="40" y="82" fill="#000000" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="40" font-weight="300">{{TITLE}}</text>
+  </g>
+  <g id="tht0" data-pptx-placeholder="object" data-pptx-idx="1" data-pptx-bounds="40 220 280 30">
+    <text id="tht0-carrier" data-pptx-carrier="true" x="180" y="237" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{THUMB_1}}</text>
+  </g>
+  <g id="tht1" data-pptx-placeholder="object" data-pptx-idx="2" data-pptx-bounds="350 220 280 30">
+    <text id="tht1-carrier" data-pptx-carrier="true" x="490" y="237" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{THUMB_2}}</text>
+  </g>
+  <g id="tht2" data-pptx-placeholder="object" data-pptx-idx="3" data-pptx-bounds="660 220 280 30">
+    <text id="tht2-carrier" data-pptx-carrier="true" x="800" y="237" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{THUMB_3}}</text>
+  </g>
+  <g id="tht3" data-pptx-placeholder="object" data-pptx-idx="4" data-pptx-bounds="970 220 280 30">
+    <text id="tht3-carrier" data-pptx-carrier="true" x="1110" y="237" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{THUMB_4}}</text>
+  </g>
+  <g id="tht4" data-pptx-placeholder="object" data-pptx-idx="5" data-pptx-bounds="40 450 280 30">
+    <text id="tht4-carrier" data-pptx-carrier="true" x="180" y="467" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{THUMB_5}}</text>
+  </g>
+  <g id="tht5" data-pptx-placeholder="object" data-pptx-idx="6" data-pptx-bounds="350 450 280 30">
+    <text id="tht5-carrier" data-pptx-carrier="true" x="490" y="467" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{THUMB_6}}</text>
+  </g>
+  <g id="tht6" data-pptx-placeholder="object" data-pptx-idx="7" data-pptx-bounds="660 450 280 30">
+    <text id="tht6-carrier" data-pptx-carrier="true" x="800" y="467" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{THUMB_7}}</text>
+  </g>
+  <g id="tht7" data-pptx-placeholder="object" data-pptx-idx="8" data-pptx-bounds="970 450 280 30">
+    <text id="tht7-carrier" data-pptx-carrier="true" x="1110" y="467" fill="#6B7280" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{THUMB_8}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1200 680 40 24" data-pptx-idx="9">
+    <text id="page-number-carrier" data-pptx-carrier="true" x="1240" y="698" text-anchor="end" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="12">{{PAGE}}</text>
+  </g>
+</svg>

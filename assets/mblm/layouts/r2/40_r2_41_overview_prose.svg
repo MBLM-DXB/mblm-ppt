@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="mblm_r2_master" data-pptx-master-name="MBLM R2 Consulting" data-pptx-layout="overview_prose" data-pptx-layout-name="Overview Prose">
+  <rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false" />
+  <image id="layout-logo" x="1148.2" y="39.7" width="88.4" height="44.2" href="../images/MBLM_LOGO_White background.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false" data-pptx-role="logo" />
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="40 40 1080 60">
+    <text id="title-carrier" data-pptx-carrier="true" x="40" y="82" fill="#000000" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="40" font-weight="300">{{TITLE}}</text>
+  </g>
+  <g id="p0" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="40 140 1200 90">
+    <text id="p0-carrier" data-pptx-carrier="true" x="40" y="162" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="18" font-weight="400">{{PARAGRAPH_1}}</text>
+  </g>
+  <g id="p1" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="40 250 1200 90">
+    <text id="p1-carrier" data-pptx-carrier="true" x="40" y="272" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="18" font-weight="400">{{PARAGRAPH_2}}</text>
+  </g>
+  <g id="p2" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="40 360 1200 90">
+    <text id="p2-carrier" data-pptx-carrier="true" x="40" y="382" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="18" font-weight="400">{{PARAGRAPH_3}}</text>
+  </g>
+  <g id="p3" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="40 470 1200 90">
+    <text id="p3-carrier" data-pptx-carrier="true" x="40" y="492" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="18" font-weight="400">{{PARAGRAPH_4}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1200 680 40 24" data-pptx-idx="5">
+    <text id="page-number-carrier" data-pptx-carrier="true" x="1240" y="698" text-anchor="end" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="12">{{PAGE}}</text>
+  </g>
+</svg>

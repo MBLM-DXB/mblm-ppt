@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="mblm_r2_master" data-pptx-master-name="MBLM R2 Consulting" data-pptx-layout="capability_matrix" data-pptx-layout-name="Capability Matrix">
+  <rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false" />
+  <image id="layout-logo" x="1148.2" y="39.7" width="88.4" height="44.2" href="../images/MBLM_LOGO_White background.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false" data-pptx-role="logo" />
+  <rect id="hdr" x="40" y="130" width="1200" height="44" fill="#002A60" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="row0" x="40" y="190" width="1200" height="70" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d01" cx="340" cy="225" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d02" cx="540" cy="225" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d04" cx="940" cy="225" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d05" cx="1140" cy="225" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="row1" x="40" y="260" width="1200" height="70" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d11" cx="340" cy="295" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d13" cx="740" cy="295" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d14" cx="940" cy="295" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="row2" x="40" y="330" width="1200" height="70" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d22" cx="540" cy="365" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d23" cx="740" cy="365" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d25" cx="1140" cy="365" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="row3" x="40" y="400" width="1200" height="70" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d31" cx="340" cy="435" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d32" cx="540" cy="435" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d34" cx="940" cy="435" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d35" cx="1140" cy="435" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="row4" x="40" y="470" width="1200" height="70" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d41" cx="340" cy="505" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d43" cx="740" cy="505" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d44" cx="940" cy="505" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <rect id="row5" x="40" y="540" width="1200" height="70" fill="#FFFFFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d52" cx="540" cy="575" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d53" cx="740" cy="575" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="d55" cx="1140" cy="575" r="8" fill="#00AEFF" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="40 40 1080 60">
+    <text id="title-carrier" data-pptx-carrier="true" x="40" y="82" fill="#000000" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="40" font-weight="300">{{TITLE}}</text>
+  </g>
+  <g id="ch0" data-pptx-placeholder="subtitle" data-pptx-idx="1" data-pptx-bounds="40 130 200 44">
+    <text id="ch0-carrier" data-pptx-carrier="true" x="140" y="147" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{COL_1}}</text>
+  </g>
+  <g id="ch1" data-pptx-placeholder="subtitle" data-pptx-idx="2" data-pptx-bounds="240 130 200 44">
+    <text id="ch1-carrier" data-pptx-carrier="true" x="340" y="147" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{COL_2}}</text>
+  </g>
+  <g id="ch2" data-pptx-placeholder="subtitle" data-pptx-idx="3" data-pptx-bounds="440 130 200 44">
+    <text id="ch2-carrier" data-pptx-carrier="true" x="540" y="147" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{COL_3}}</text>
+  </g>
+  <g id="ch3" data-pptx-placeholder="subtitle" data-pptx-idx="4" data-pptx-bounds="640 130 200 44">
+    <text id="ch3-carrier" data-pptx-carrier="true" x="740" y="147" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{COL_4}}</text>
+  </g>
+  <g id="ch4" data-pptx-placeholder="subtitle" data-pptx-idx="5" data-pptx-bounds="840 130 200 44">
+    <text id="ch4-carrier" data-pptx-carrier="true" x="940" y="147" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{COL_5}}</text>
+  </g>
+  <g id="ch5" data-pptx-placeholder="subtitle" data-pptx-idx="6" data-pptx-bounds="1040 130 200 44">
+    <text id="ch5-carrier" data-pptx-carrier="true" x="1140" y="147" fill="#FFFFFF" text-anchor="middle" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{COL_6}}</text>
+  </g>
+  <g id="rl0" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="50 205 180 40">
+    <text id="rl0-carrier" data-pptx-carrier="true" x="50" y="222" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{ROW_1_LABEL}}</text>
+  </g>
+  <g id="rl1" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="50 275 180 40">
+    <text id="rl1-carrier" data-pptx-carrier="true" x="50" y="292" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{ROW_2_LABEL}}</text>
+  </g>
+  <g id="rl2" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="50 345 180 40">
+    <text id="rl2-carrier" data-pptx-carrier="true" x="50" y="362" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{ROW_3_LABEL}}</text>
+  </g>
+  <g id="rl3" data-pptx-placeholder="body" data-pptx-idx="10" data-pptx-bounds="50 415 180 40">
+    <text id="rl3-carrier" data-pptx-carrier="true" x="50" y="432" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{ROW_4_LABEL}}</text>
+  </g>
+  <g id="rl4" data-pptx-placeholder="body" data-pptx-idx="11" data-pptx-bounds="50 485 180 40">
+    <text id="rl4-carrier" data-pptx-carrier="true" x="50" y="502" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{ROW_5_LABEL}}</text>
+  </g>
+  <g id="rl5" data-pptx-placeholder="body" data-pptx-idx="12" data-pptx-bounds="50 555 180 40">
+    <text id="rl5-carrier" data-pptx-carrier="true" x="50" y="572" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="700">{{ROW_6_LABEL}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1200 680 40 24" data-pptx-idx="13">
+    <text id="page-number-carrier" data-pptx-carrier="true" x="1240" y="698" text-anchor="end" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="12">{{PAGE}}</text>
+  </g>
+</svg>

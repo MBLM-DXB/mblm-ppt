@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="mblm_r2_master" data-pptx-master-name="MBLM R2 Consulting" data-pptx-layout="background_timeline" data-pptx-layout-name="Background Timeline">
+  <rect id="master-bg" x="0" y="0" width="1280" height="720" fill="#FFFFFF" data-pptx-layer="master" data-pptx-editable="false" />
+  <image id="layout-logo" x="1148.2" y="39.7" width="88.4" height="44.2" href="../images/MBLM_LOGO_White background.svg" preserveAspectRatio="xMidYMid meet" data-pptx-layer="layout" data-pptx-editable="false" data-pptx-role="logo" />
+  <rect id="well" x="40" y="130" width="560" height="500" fill="#F2F2F2" data-pptx-layer="layout" data-pptx-editable="false" />
+  <line id="tl" x1="760" y1="160" x2="760" y2="620" stroke="#9CA3AF" stroke-width="1.5" stroke-dasharray="4 6" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="tn0" cx="760" cy="200" r="14" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="tn1" cx="760" cy="320" r="14" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="tn2" cx="760" cy="440" r="14" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <circle id="tn3" cx="760" cy="560" r="14" fill="#000000" data-pptx-layer="layout" data-pptx-editable="false" />
+  <g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="40 40 1080 60">
+    <text id="title-carrier" data-pptx-carrier="true" x="40" y="82" fill="#000000" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="40" font-weight="300">{{TITLE}}</text>
+  </g>
+  <g id="prose" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="60 160 520 440">
+    <text id="prose-carrier" data-pptx-carrier="true" x="60" y="180" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{PROSE}}</text>
+  </g>
+  <g id="tt0" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="800 180 400 80">
+    <text id="tt0-carrier" data-pptx-carrier="true" x="800" y="199" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{TIMELINE_1}}</text>
+  </g>
+  <g id="tt1" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="800 300 400 80">
+    <text id="tt1-carrier" data-pptx-carrier="true" x="800" y="319" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{TIMELINE_2}}</text>
+  </g>
+  <g id="tt2" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="800 420 400 80">
+    <text id="tt2-carrier" data-pptx-carrier="true" x="800" y="439" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{TIMELINE_3}}</text>
+  </g>
+  <g id="tt3" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="800 540 400 80">
+    <text id="tt3-carrier" data-pptx-carrier="true" x="800" y="559" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="16" font-weight="400">{{TIMELINE_4}}</text>
+  </g>
+  <g id="page-number-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1200 680 40 24" data-pptx-idx="6">
+    <text id="page-number-carrier" data-pptx-carrier="true" x="1240" y="698" text-anchor="end" fill="#000000" font-family="BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="12">{{PAGE}}</text>
+  </g>
+</svg>

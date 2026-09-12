@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-master="mblm_r2_section_master" data-pptx-master-name="MBLM R2 Section" data-pptx-layout="section_agenda" data-pptx-layout-name="Section Agenda" data-pptx-page-role="section">
+  <defs>
+    <!-- Diagonal: bright blue bottom-left → near-black top-right -->
+    <linearGradient id="section-grad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58BFF8"/>
+      <stop offset="28%" stop-color="#2B7BC4"/>
+      <stop offset="62%" stop-color="#123256"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+
+  <rect id="master-bg" x="0" y="0" width="1280" height="720" fill="url(#section-grad)" data-pptx-layer="master" data-pptx-editable="false"/>
+
+  <!-- Framed MBLM wordmark as root atoms (not a group) -->
+  <rect id="wordmark-frame" x="64" y="65" width="187" height="79" fill="none" stroke="#FFFFFF" stroke-width="2" data-pptx-layer="layout" data-pptx-editable="false" data-pptx-role="logo"/>
+  <text id="wordmark-text" x="157.5" y="118" fill="#FFFFFF" font-family="BentonSansCond-Bold, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle" data-pptx-layer="layout" data-pptx-editable="false">MBLM</text>
+
+  <!-- Right-aligned section list — BentonSansCond-Light 40pt (SVG 53.3) -->
+  <g id="sec0" data-pptx-placeholder="title" data-pptx-bounds="480 250 760 70">
+    <text id="sec0-carrier" data-pptx-carrier="true" x="1240" y="300" fill="#B9B9B9" text-anchor="end" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="66.7" font-weight="300">SCOPE</text>
+  </g>
+  <g id="sec1" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="480 340 760 70">
+    <text id="sec1-carrier" data-pptx-carrier="true" x="1240" y="390" fill="#B9B9B9" text-anchor="end" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="66.7" font-weight="300">TEAM</text>
+  </g>
+  <g id="sec2" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="480 430 760 70">
+    <text id="sec2-carrier" data-pptx-carrier="true" x="1240" y="480" fill="#B9B9B9" text-anchor="end" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="66.7" font-weight="300">TIMELINE &amp; FEES</text>
+  </g>
+  <g id="sec3" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="480 520 760 70">
+    <text id="sec3-carrier" data-pptx-carrier="true" x="1240" y="570" fill="#B9B9B9" text-anchor="end" font-family="BentonSansCond-Light, BentonSansCond, Arial Narrow, Arial, sans-serif" font-size="66.7" font-weight="300">OPERATION</text>
+  </g>
+</svg>
