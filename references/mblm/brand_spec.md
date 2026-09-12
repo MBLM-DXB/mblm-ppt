@@ -7,7 +7,7 @@ primary_color: "#000000"
 
 # MBLM Brand Specification
 
-> Identity preset for this skill. Page composition follows `LAYOUTS.md` + `visual-references/LAYOUT_PATTERNS.md` + `CATALOG_R2.md` + mblm-ppt authoring; this file locks identity only. Decisions locked through **v4.2.1** (2026-09-12) — see `RESOLVED_DECISIONS.md` + `LAYOUT_METRICS.md`.
+> Identity preset for this skill. Page composition follows `LAYOUTS.md` + `visual-references/LAYOUT_PATTERNS.md` + `CATALOG_R2.md` + mblm-ppt authoring; this file locks identity only. Decisions locked through **v4.1.0** (2026-09-10) — see `RESOLVED_DECISIONS.md` + `LAYOUT_METRICS.md`.
 
 ## I. Brand Overview
 
@@ -40,19 +40,19 @@ There is **no Markdown brand manual** inside the source `mblm assets` kit. Brand
 **Lines**: `LINE_RULES.md` — no yellow lines; blue-only above cards; white-only text on black fills.
 **Gradients**: mainly section dividers — see `COLORS.md`.
 
-## III. Typography (v4.2.1)
+## III. Typography (v4)
 
 | Role | Family | Weight / size |
 |---|---|---|
 | cover title | BentonSansCond | **Light 60 or 72** (prefer 72) |
 | cover subtitle | BentonSansCond | **24 or 32** (prefer 28–32) |
-| agenda / content page title | BentonSansCond | **Light 40** (SVG 53.3) |
-| agenda section labels (r2_40) | BentonSansCond | **Light 50** (SVG 66.7) |
-| content subtitle | BentonSansCond | **Regular 18** |
-| body | BentonSansCond | **Regular 16 or 18** locked deck-wide (**prefer 18**) |
-| accents / topic headers | BentonSansCond | **Bold** |
+| agenda / content page title | BentonSansCond | **Light 47** |
+| content page title | BentonSansCond | **Light 47 only** |
+| content subtitle | BentonSansCond | **Regular 18 or 20** (prefer 20) |
+| body | BentonSansCond | **Regular 16 or 20** locked deck-wide (**prefer 20**) |
+| accents < ~24px @ 1280 | BentonSansCond | **Bold** |
+| topic headers | BentonSansCond | **Medium** |
 | Supertext | BentonSansCond | **Black** outline **1.25pt**, edge-to-edge (≠ page headline) |
-| **Banned** | BentonSansCond | **Medium / MediumSC** (and Medium italics) |
 
 **Editable text**: one object per paragraph — `TEXT_BOXES.md`. Normal kerning; **no kickers**.
 
@@ -69,7 +69,7 @@ User Mac: Benton installed — use it. Fallback elsewhere: Arial Narrow → Aria
 ## V. Layout DNA
 
 - Specs: 2:1 Frame, black brand bars, photo+bar, mesh (section dividers), Supertext
-- R2: agenda **K / r2_40 only** (r2_12 removed), solid card headers, tables, Gantt, pillars — see `LAYOUT_PATTERNS.md`
+- R2: agenda J/K (r2_12, r2_40), solid card headers, tables, Gantt, pillars — see `LAYOUT_PATTERNS.md`
 - Margins: `MARGINS.md` / `LAYOUT_METRICS.md` (**1.05 cm ≈ 39.7/40 px** all sides)
 - Bullets: `BULLETS.md` (round black circles)
 - Text boxes: `TEXT_BOXES.md`

@@ -1,5 +1,0 @@
-Lean full skill tree.
-Excluded: .venv, projects/*, __pycache__, references/ai-image-comparison,
-templates/sounds, and templates/icons if needed for size.
-Includes: skills (w/ mblm-deck-planner), templates (brands+decks+layouts), references/mblm,
-scripts, assets, docs, SKILL.md, requirements, workflows, etc.

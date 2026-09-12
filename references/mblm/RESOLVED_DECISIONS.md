@@ -79,8 +79,8 @@ From type hierarchy screenshot + user feedback:
 | Headers / primary headlines | BentonSansCond **Light** |
 | Body | **Regular** |
 | Accents when size &lt; ~24px @ 1280 | **Bold** |
-| Topic headers | **Bold** (Medium banned as of v4.2.1) |
-| Medium / MediumSC | **BANNED** — use Bold |
+| Topic headers | **Medium** |
+| Medium otherwise | Only to emphasize within a phrase |
 | Supertext | **Black** outline — **1.25pt** edge-to-edge; short mood words; must not repeat page headline |
 
 ## 13. Official palette expansion + hex conflict resolution (locked 2026-09-10 afternoon)
@@ -113,7 +113,7 @@ Still in force unless §16 says otherwise:
 8. **Gradients** mainly for **section dividers** — not full-bleed on ordinary content slides.
 9. **Tables**: header dark blue/blue/black/grey; white/contrast text; normal kerning.
 10. **No line-box stacks** — solid fills + paragraph blocks.
-11. **Agenda gold standard (SVG catalog)**: **r2_40 only** — `39_r2_40_section_agenda` (`CATALOG_R2.md`, Pattern K). **`11_r2_12_content_toc` REMOVED.**
+11. **Agenda gold standard**: r2_12 Content TOC + r2_40 section agenda (`CATALOG_R2.md`, Patterns J–K).
 12. No yellow divider lines; blue-only lines above cards; Light headers / Regular body / Bold accents <24.
 
 Visual pass must include R2 catalog + `more examples r2` / `_examples_r2_ascii/`.
@@ -148,7 +148,7 @@ Documented in [`LAYOUT_METRICS.md`](LAYOUT_METRICS.md). Scale: SVG 1280×720 ↔
 1. **Margins**: **1.05 cm ≈ 39.7 px** on **all sides** (practical **40 px**). Revokes v3/v4 L/R ~62 / bottom ~45.
 2. **Content-slide logo** (every content slide incl. agenda): **2.34×1.17 cm** → **≈88.4×44.2 px** at **x=30.38 cm / ≈1148.2 px**, **y=1.05 cm / ≈39.7 px**. Identical on every content slide.
 3. **Cover / section divider / thank-you logo**: **3.65 cm** wide → **≈138 px**; height **~1.825 cm / ≈69 px** (≈2:1); **left-aligned** at **1.05 cm / ≈40 px**, top **1.05 cm / ≈40 px**.
-4. **Content-slide titles**: BentonSansCond Light **40pt only** (SVG **53.3**) — never 47/54/24–36. Agenda page title → **40pt**. Section labels on r2_40 → **50pt** Light. *(v4.2.1 overrides prior 47pt.)*
+4. **Content-slide titles**: BentonSansCond Light **47pt only** — never 54, 24, 32, or 28–36. Agenda “Content” is a content slide → **47pt** (overrides v4 ≥72 agenda rule).
 5. **Cover / hero titles**: **60–72** Light still OK **only on cover**.
 6. **Supertext**: **minimum 150pt**; increase for edge-to-edge within margins; stroke **1.25pt**.
 7. All other v4 locks in §16 remain (single paragraph text boxes; body 16–20; content subtitles 18–20; no kickers; no yellow lines; blue-only card lines; white-on-black; gradients for dividers; black round bullets; normal kerning; no tagline/bottom MBLM with logo) except where geometry/title sizes above override.
@@ -161,14 +161,3 @@ Documented in [`LAYOUT_METRICS.md`](LAYOUT_METRICS.md). Scale: SVG 1280×720 ↔
 4. **Table headers** fill only `#002A60` / `#000000` / `#808080`.
 5. **Graphics chrome** (bars, accents, icon fills used as chrome): primary `#000000` `#FFFFFF` `#FFF200` only (plus table-header tokens above). Do not invent extra greys for chrome.
 6. Skill docs: no username absolute paths; `PATHS.md` defines `MBLM_MASTER_ROOT`.
-
-
-## 19. User v4.2.1 type freeze + planner (locked 2026-09-12 Asia/Dubai) — OVERRIDE conflicting title/body/Medium rules
-
-1. **Content titles**: Light **40pt** only (SVG authoring **53.3** = desired_pt/0.75).
-2. **Body**: Regular **16pt or 18pt** minimum (SVG **21.3** / **24** when scaled). Prefer 18.
-3. **Banned weights**: **Medium / MediumSC** (and Medium italics). Allowed: Light / Regular / Bold / Italic / Black.
-4. **Topic headers / emphasis formerly Medium** → **Bold**.
-5. **Agenda**: gold = **`39_r2_40_section_agenda` only**; section labels **50pt** Light (SVG **66.7**); `11_r2_12_content_toc` removed from catalog.
-6. **Planner**: Alumni Turn 0 = `skills/mblm-deck-planner/` (plan only) → Turn 1 visuals → Turn 2 `mblm-ppt-master`.
-7. Geometry / logos / margins from §17–18 remain in force.

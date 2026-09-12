@@ -8,7 +8,7 @@ description: >
   presentation, or mentions mblm-ppt-master / MBLM slides. Never load non-MBLM
   brand presets.
 metadata:
-  version: "6.3.2-mblm.3"
+  version: "6.3.2-mblm.1"
   copyright: "Copyright (c) 2025-2026 Hugo He"
   license: "MIT"
   official_repository: "https://github.com/hugohe3/ppt-master"
@@ -47,7 +47,7 @@ ask; never search or guess.
    [`references/mblm/visual-references/CATALOG.md`](references/mblm/visual-references/CATALOG.md),
    [`CATALOG_R2.md`](references/mblm/visual-references/CATALOG_R2.md), and
    [`LAYOUT_PATTERNS.md`](references/mblm/visual-references/LAYOUT_PATTERNS.md).
-   Agenda gold standard: **r2_40** (`39_r2_40_section_agenda` only; `11_r2_12_content_toc` removed). Adapt catalog patterns — do not
+   Agenda gold standards: **r2_12** / **r2_40**. Adapt catalog patterns — do not
    invent McKinsey-style chrome.
 5. **Brand freeze** — batch-load
    `references/mblm/LINE_RULES.md`, `LAYOUT_METRICS.md`, `TYPOGRAPHY.md`,
@@ -77,7 +77,7 @@ compete with it.
 
 ---
 
-## HARD DESIGN FREEZE — v4.2.1 type freeze (always-on)
+## HARD DESIGN FREEZE — v4.1.1 / v4.2.0 (always-on)
 
 1. **Editable text**: one text object per paragraph (`TEXT_BOXES.md`); never
    `--no-merge`.
@@ -87,35 +87,25 @@ compete with it.
 5. **Cover / divider / thank-you logo**: **138×69 @ 40,40**.
 6. **Cover title**: **60pt or 72pt** Light (prefer **72**) — cover only.
 7. **Cover subtitles**: **24pt or 32pt** (prefer **28–32**).
-8. **Body**: **16pt or 18pt** Regular min — lock one deck-wide; prefer **18pt** (SVG **21.3** / **24** when exporter-scaled).
-9. **Content-slide subtitle**: **18pt**; **`#000000`**; under title.
-10. **Content-slide titles** (incl. Agenda): Light **40pt only** (SVG **53.3** = 40/0.75); top edge at
+8. **Body**: **16pt or 20pt** Regular — lock one deck-wide; prefer **20pt**.
+9. **Content-slide subtitle**: **18pt or 20pt**; **`#000000`**; under title.
+10. **Content-slide titles** (incl. Agenda): Light **47pt only**; top edge at
     **1.05 cm**.
-11. **Type weights allowed**: Light / Regular / Bold / Italic / Black only. **Banned: Medium / MediumSC** (and Medium italics).
-12. **No kickers** — deck-wide; zero tolerance.
-13. **Supertext**: **≥150pt**; stroke **1.25pt**; edge-to-edge within margins.
-14. **Omit tagline** "The Brand Intimacy Agency" when logo present; no bottom
+11. **No kickers** — deck-wide; zero tolerance.
+12. **Supertext**: **≥150pt**; stroke **1.25pt**; edge-to-edge within margins.
+13. **Omit tagline** "The Brand Intimacy Agency" when logo present; no bottom
     MBLM wordmark if logo already on slide.
-15. **Bullets**: round **black** circles; diameter ≈ **80% of text size**.
-16. **Kerning normal** — do not expand letter-spacing.
-17. **White-only text on black fills** — never yellow/blue text on black.
-18. **Gradient backgrounds** mainly for **section dividers**.
-19. **Tables**: header only `#002A60` / `#000000` / `#808080`; chrome accents
+14. **Bullets**: round **black** circles; diameter ≈ **80% of text size**.
+15. **Kerning normal** — do not expand letter-spacing.
+16. **White-only text on black fills** — never yellow/blue text on black.
+17. **Gradient backgrounds** mainly for **section dividers**.
+18. **Tables**: header only `#002A60` / `#000000` / `#808080`; chrome accents
     primary `#000000` `#FFFFFF` `#FFF200` only.
-20. **No line-box stacks** — solid fills + paragraph text blocks.
-21. **Agenda** from R2 (**r2_40** / `39_r2_40_section_agenda` only); content title **40pt** Light; section labels **50pt** Light (SVG **66.7**).
-22. **Yellow lines forbidden** — `#FFF200` never as divider/accent lines.
-23. **Lines above cards** — blue family only: `#002A60`, `#006AF1`, `#00AEFF`,
+19. **No line-box stacks** — solid fills + paragraph text blocks.
+20. **Agenda** from R2 (**r2_12** + **r2_40**); title size = **47pt**.
+21. **Yellow lines forbidden** — `#FFF200` never as divider/accent lines.
+22. **Lines above cards** — blue family only: `#002A60`, `#006AF1`, `#00AEFF`,
     `#0068EB`.
-
-24. **Process diagrams** — use `skills/mblm-diagram` monoline contract
-    (black/white only); see `references/mblm/DIAGRAMS.md`.
-25. **Illustrations** — `skills/mblm-illustration`: exactly **one** MBLM
-    accent per image; centered with padding (not edge-bleed on content);
-    see `references/mblm/IMAGES_GEN.md`.
-26. **Cinematic photos** — `skills/mblm-cinematic`: cool blue-teal base +
-    one warm light source; backlight; faces profile/obscured; full-bleed
-    OK on cover/section/closing only.
 
 ### Brand freeze tokens
 
@@ -125,7 +115,7 @@ compete with it.
 | Margins | **1.05 cm ≈ 39.7 / 40 px** all sides |
 | Primary | `#000000` `#FFFFFF` `#FFF200` + gray `#BFBFBF` |
 | Blue line family | `#002A60` `#006AF1` `#00AEFF` `#0068EB` |
-| Type | BentonSansCond — cover 60/72 Light; **content titles 40pt Light**; body Regular 16–18; **no Medium** |
+| Type | BentonSansCond — cover 60/72 Light; **content titles 47pt**; body 20 Regular |
 | Content logo | **88.4×44.2 @ 1148.2,39.7** |
 | Cover/divider/thanks logo | **138×69 @ 40,40** |
 | Bullets | Round black circles Ø≈80% text |
@@ -175,28 +165,6 @@ Full upstream vocabulary for executor/strategist terms remains in
    + line/type/margin/bullet/text-box rules).
 6. Core Path A (Quick Generate → `svg_to_pptx`) does **not** call home; optional
    image/TTS backends may need network only when the user opts in.
-
----
-
-## Generated imagery (illustration + cinematic)
-
-**Media orchestration authority:** [`docs/STEP4_INTEGRATION.md`](docs/STEP4_INTEGRATION.md)
-(Alumni two-turn + local single-agent). Prompts: [`docs/ALUMNI_PROMPTS_IMAGERY.md`](docs/ALUMNI_PROMPTS_IMAGERY.md).
-
-Nested skills: `skills/mblm-deck-planner/`, `skills/mblm-illustration/`, `skills/mblm-cinematic/` (plus STEP 2 `skills/mblm-diagram/`).
-Engine index: `references/mblm/IMAGES_GEN.md`. Hosts: `IMAGE_SLOTS.md` / `DIAGRAM_SLOTS.md`. Deck: `templates/decks/mblm-r2/`.
-
-| Mode | File | Type | Crop |
-|---|---|---|---|
-| Illustration | `images/illustration_<slug>.png` | Illustration | no-crop (adaptive heroes) |
-| Cinematic | `images/photo_<slug>.png` | Photography | adaptive often |
-| Diagram | `images/diagram_<slug>.png` | Illustration | no-crop |
-
-**Alumni turns:** **Turn 0** `skills/mblm-deck-planner/` (plan only) → **Turn 1** visuals → `projects/_host_images/` → **Turn 2** ppt-master alone. Do not stack visual Skill Scripts with ppt Skill Script if 400 spawn errors.
-
-**Single-agent:** load nested SKILL.md files as Image_Generator style refs; prompt helpers `scripts/mblm_illustration_prompt.py`, `scripts/mblm_cinematic_prompt.py`, `scripts/mblm_diagram_prompt.py` (emit prompts only — no image APIs).
-
-Never mix illustration accents; never recolor diagrams.
 
 ---
 

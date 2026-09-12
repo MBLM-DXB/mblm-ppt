@@ -1,4 +1,4 @@
-# MBLM Layout Metrics (HARD — v4.1.1 geometry + v4.2.1 type)
+# MBLM Layout Metrics (HARD — v4.1.1 persistent lock)
 
 **Canvas:** SVG **1280 × 720**  
 **PowerPoint 16:9 slide:** **33.867 cm × 19.05 cm** (13.333″ × 7.5″)
@@ -81,15 +81,15 @@ On yellow flood covers use brand-color or framed inverse per `LOGOS.md`; positio
 
 | Role | Rule |
 |---|---|
-| **Content page title** | BentonSansCond **Light** **40pt only** (SVG **53.3**) — never 47/54/24–36 |
-| Agenda page title | **Content slide** → **40pt** Light; section labels on r2_40 → **50pt** Light (SVG **66.7**) |
+| **Content page title** | BentonSansCond **Light** **47pt only** — never 54, never 24, never 32, never 28–36 |
+| Agenda “Content” title | **Content slide** → **47pt** (overrides prior ≥72pt agenda rule) |
 | Cover / hero title | **60–72** Light still allowed **only on cover** |
 | Divider / thank-you titles | Follow their pattern (large display / Supertext); **not** content-title band |
 | **Title top edge** | **1.05 cm** from slide top (same Y as content logo top / top margin ≈ **39.7 px**) |
 | **Title / subtitle X** | Left-aligned in content area at left margin **1.05 cm ≈ 39.7 / 40 px** |
 | **Subtitle** | Directly under title with normal gap; color **black `#000000`** (never dark grey) |
 
-With alphabetic SVG baseline, set title `y` so the **visual top** of 40pt caps sits at ≈39.7 px (≈ `y ≈ 75` for BentonSansCond Light 40 / SVG 53.3). Subtitle baseline follows with a normal gap. Do **not** leave title baseline at 90 when the logo top is at 39.7.
+With alphabetic SVG baseline, set title `y` so the **visual top** of 47pt caps sits at ≈39.7 px (≈ `y ≈ 75` for BentonSansCond Light 47). Subtitle baseline follows with a normal gap (~40 px below title baseline). Do **not** leave title baseline at 90 when the logo top is at 39.7.
 
 ---
 
@@ -109,11 +109,11 @@ With alphabetic SVG baseline, set title `y` so the **visual top** of 40pt caps s
 1. Margins ≥ 1.05 cm / ~40 px on all sides for content.  
 2. Content slides: logo at **x=1148.2 y=39.7 w=88.4 h=44.2** (or practical integers above).  
 3. Cover / divider / thank-you: logo at **x=40 y=40 w=138 h=69**.  
-4. Every content title: Light face; `font-size="53.3"` (scaled) or `"40"` (unscaled pt-as-SVG); top edge at **1.05 cm / ≈39.7**; left at margin.  
+4. Every content title: `font-size="47"`; top edge at **1.05 cm / ≈39.7**; left at margin.  
 5. Content subtitle under title (normal gap); fill **`#000000`**.  
 6. Supertext (if present): `font-size` ≥ **150**.  
 7. Spot-check **every** SVG before export.
 
 ## Related
 
-- `MARGINS.md` · `LOGOS.md` · `TYPOGRAPHY.md` · `LAYOUTS.md` · `SKILL.md` hard freeze v4.2.1
+- `MARGINS.md` · `LOGOS.md` · `TYPOGRAPHY.md` · `LAYOUTS.md` · `SKILL.md` hard freeze v4.1.1
