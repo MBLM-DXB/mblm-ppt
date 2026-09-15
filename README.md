@@ -54,6 +54,25 @@ Agents: load `SKILL.md` → guard → `MBLM_OVERLAY.md` → `references/mblm/*` 
 home. Optional image search / TTS / cloud backends are opt-in via `.env.example`
 only.
 
+
+## MBLM media stack (Steps 1–4)
+
+Orchestrated path for **r2 SVG templates** + nested visual skills:
+
+| Step | What | Doc |
+|---|---|---|
+| 1 | Deck `mblm-r2` (40 SVGs) | [`docs/STEP1_R2_SVG_TEMPLATES.md`](docs/STEP1_R2_SVG_TEMPLATES.md) |
+| 2 | Process diagrams (`mblm-diagram`) | [`docs/STEP2_MBLM_DIAGRAM.md`](docs/STEP2_MBLM_DIAGRAM.md) |
+| 3 | Illustration + cinematic | [`docs/STEP3_MBLM_IMAGES.md`](docs/STEP3_MBLM_IMAGES.md) |
+| **4** | **Integration (canonical)** | [`docs/STEP4_INTEGRATION.md`](docs/STEP4_INTEGRATION.md) |
+
+- Alumni prompts (two-turn **MASTER** / single-agent **LOCAL**): [`docs/ALUMNI_PROMPTS_IMAGERY.md`](docs/ALUMNI_PROMPTS_IMAGERY.md)
+- Install merge (add-on zip): [`docs/INSTALL_ALUMNI.md`](docs/INSTALL_ALUMNI.md)
+- Shipping / zip roles: [`docs/SHIPPING.md`](docs/SHIPPING.md)
+- Changelog: [`docs/CHANGELOG_MBLM.md`](docs/CHANGELOG_MBLM.md)
+
+Lean add-on for an existing install: `mblm-ppt-master-step4-media-stack.zip` (merge into skill root; does not replace the full engine).
+
 ## License
 
 - Engine / Skill tooling: MIT — Copyright (c) 2025-2026 Hugo He

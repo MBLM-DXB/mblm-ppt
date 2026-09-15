@@ -71,7 +71,7 @@ from .utils import (
     rect_to_dml_xfrm,
     combine_opacity, parse_hex_color, parse_svg_color,
     resolve_project_text_image_fill, resolve_url_id, get_effective_filter_id,
-    parse_inline_style, parse_font_family, is_cjk_char,
+    parse_inline_style, parse_font_family, resolve_benton_cond_typeface, is_cjk_char,
     detect_text_lang, estimate_text_cluster_widths, font_px_to_hpt,
     get_font_advances, primary_font_family,
     resolve_text_run_fonts, split_project_text_clusters,
@@ -2955,6 +2955,12 @@ def _build_run_properties_xml(
     baseline_attr = f' baseline="{baseline_shift}"' if baseline_shift else ''
 
     fonts = parse_font_family(ff) if ff else default_fonts
+    # PPT uses PostScript face from typeface=, not CSS font-weight. Map bare
+    # BentonSansCond + weight → BentonSansCond-Light/Regular/Bold/Black.
+    fonts = dict(fonts)
+    fonts['latin'] = resolve_benton_cond_typeface(
+        fonts.get('latin', ''), str(fw)
+    )
     run_fonts = (
         {
             'latin': fixed_font_family,

@@ -3190,6 +3190,60 @@ def get_effective_filter_id(elem: ET.Element, ctx: ConvertContext) -> str | None
 # Font parsing
 # ---------------------------------------------------------------------------
 
+
+def resolve_benton_cond_typeface(family: str, weight: str) -> str:
+    """Map bare BentonSansCond + CSS weight to a PostScript face name.
+
+    PowerPoint exports the ``a:latin typeface`` from the first CSS
+    ``font-family`` token. CSS ``font-weight`` alone does **not** select
+    Light/Regular/Bold OTF files on Mac — ``BentonSansCond`` + weight 300
+    resolves as Regular. When the primary family is exactly
+    ``BentonSansCond`` (no ``-Light``/``-Regular``/``-Bold``/``-Black``
+    suffix), map weight to the installed PostScript face:
+
+    - 100–300 or keyword ``light`` → ``BentonSansCond-Light``
+    - 400 / ``normal`` / empty → ``BentonSansCond-Regular``
+    - 500 → ``BentonSansCond-Regular`` (Medium banned for MBLM)
+    - ≥600 / ``bold`` → ``BentonSansCond-Bold``
+    - 900 / ``black`` → ``BentonSansCond-Black``
+
+    Families that already carry a hyphenated face suffix are left unchanged.
+    Non-Benton fonts are never rewritten.
+    """
+    face = (family or '').strip().strip("'\"")
+    if not face:
+        return face
+    # Already a PostScript face (or any hyphenated BentonSansCond-* name).
+    if face.startswith('BentonSansCond-') or face != 'BentonSansCond':
+        return face
+
+    raw = (weight or '').strip().lower()
+    if raw in {'', 'normal'}:
+        return 'BentonSansCond-Regular'
+    if raw in {'light', 'lighter'}:
+        return 'BentonSansCond-Light'
+    if raw in {'bold', 'bolder'}:
+        return 'BentonSansCond-Bold'
+    if raw in {'black'}:
+        return 'BentonSansCond-Black'
+    if raw in {'medium'}:
+        # Medium banned for MBLM — keep Regular rather than Medium.
+        return 'BentonSansCond-Regular'
+    if raw.isdigit():
+        n = int(raw)
+        if n >= 900:
+            return 'BentonSansCond-Black'
+        if n >= 600:
+            return 'BentonSansCond-Bold'
+        if n >= 400:
+            # 400 and 500 → Regular (500/Medium banned).
+            return 'BentonSansCond-Regular'
+        # 100–300
+        return 'BentonSansCond-Light'
+    # Unknown weight token — safest body default.
+    return 'BentonSansCond-Regular'
+
+
 def parse_font_family(font_family_str: str) -> dict[str, str]:
     """Parse CSS font-family into latin/ea typeface names.
 
