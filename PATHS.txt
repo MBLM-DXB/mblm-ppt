@@ -1,0 +1,15 @@
+MBLM Light-face MD patch (6.3.2-mblm.4)
+Unpack into your mblm-ppt-master root (overwrite):
+
+  SKILL.md
+  MBLM_OVERLAY.md
+  templates/brands/mblm/templates/design_spec.md
+  references/mblm/TYPOGRAPHY.md
+  references/mblm/brand_spec.md
+  references/mblm/LAYOUT_METRICS.md
+  references/mblm/RESOLVED_DECISIONS.md
+  skills/mblm-deck-planner/SKILL.md
+  docs/CHANGELOG_MBLM.md
+
+Note: engine Python fix (resolve_benton_cond_typeface) is NOT in this zip —
+only docs/brand stacks. Say if you also want the .py patch files.
