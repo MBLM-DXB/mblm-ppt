@@ -46,12 +46,10 @@ primary_color: "#000000"
 
 | Role | Family | Weight |
 |---|---|---|
-| title | `BentonSansCond-Light, Arial Narrow, Arial, sans-serif` | Light face in **font-family** (content titles **40pt**; cover 60–72). Do **not** rely on short `BentonSansCond` + `font-weight="300"`. |
-| body | `BentonSansCond-Regular, Arial Narrow, Arial, sans-serif` | Regular face in **font-family** (16–18pt; prefer 18) |
-| emphasis | `BentonSansCond-Bold, …` | Bold face (never Medium) |
-| highlight / Supertext | `BentonSansCond-Black, …` | Black face; Supertext outline ≥150pt, stroke 1.25pt |
+| title | BentonSansCond, Arial Narrow, Arial, sans-serif | Light (content titles 47pt; cover 60–72) |
+| body | BentonSansCond, Arial Narrow, Arial, sans-serif | Regular 16–20 (prefer 20) |
 
-> **PPT exports the PostScript face from `font-family`, not CSS weight.** Titles must use `BentonSansCond-Light` as the first family token. PPT Master does not auto-embed fonts. Prefer Benton when installed; otherwise Arial Narrow then Arial. Content subtitle Regular 18 in `#000000`. No kickers. Normal kerning. See `references/mblm/TYPOGRAPHY.md` and `LAYOUT_METRICS.md`.
+> PPT Master does not auto-embed fonts. Prefer BentonSansCond when installed; otherwise Arial Narrow then Arial. Content subtitle Regular 18–20 in `#000000`. No kickers. Normal kerning. Supertext: BentonSansCond Black outline ≥150pt, stroke 1.25pt. See `references/mblm/TYPOGRAPHY.md` and `LAYOUT_METRICS.md`.
 
 ## IV. Logo
 
