@@ -1,4 +1,0 @@
-mblm-ppt-master full package — 6.3.2-mblm.4
-Includes BentonSansCond-Light PPT export fix (resolve_benton_cond_typeface),
-brand/docs freeze updates, and r2 SVG PostScript-face authoring sweep.
-Excludes: .venv, projects/*, __pycache__, *.pyc
